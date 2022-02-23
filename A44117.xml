@@ -1,0 +1,976 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The learned readings of Sir Robert Holbourne, Knight upon the statute of 25 Edw. 3. cap. 2, being the statute of treasons : to which is added cases of [brace] prerogative, treason, misprision of treason, felony, &amp;c. / written by the Right Honourable Francis Bacon ... ; and now reprinted for publick benefit.</title>
+            <author>Holborne, Robert, Sir, d. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 100 KB of XML-encoded text transcribed from 75 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44117</idno>
+            <idno type="STC">Wing H2373</idno>
+            <idno type="STC">ESTC R34943</idno>
+            <idno type="EEBO-CITATION">14913097</idno>
+            <idno type="OCLC">ocm 14913097</idno>
+            <idno type="VID">102884</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102884)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1571:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The learned readings of Sir Robert Holbourne, Knight upon the statute of 25 Edw. 3. cap. 2, being the statute of treasons : to which is added cases of [brace] prerogative, treason, misprision of treason, felony, &amp;c. / written by the Right Honourable Francis Bacon ... ; and now reprinted for publick benefit.</title>
+                  <author>Holborne, Robert, Sir, d. 1647.</author>
+                  <author>Bacon, Francis, 1561-1626. Cases of treason.</author>
+               </titleStmt>
+               <extent>[2], 141, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Heyrick ... and Matthew Gilliflower ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 1.</note>
+                  <note>Imperfect: print show-through with some loss of print.</note>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treason --  England.</term>
+               <term>Prerogative, Royal --  England.</term>
+               <term>Criminal law --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102884:1"/>
+            <pb facs="tcp:102884:1" rendition="simple:additions"/>
+            <p>THE LEARNED READINGS OF Sir <hi>Robert Holbourne,</hi> Knight, Attorney General to King <hi>Charles</hi> I.</p>
+            <p>UPON The STATUTE of 25 <hi>Edw.</hi> 3. <hi>Cap.</hi> 2.</p>
+            <p>Being the Statute of TREASONS.</p>
+            <p>To which is added, Caſes of
+<list>
+                  <item>Prerogative.</item>
+                  <item>Treaſon.</item>
+                  <item>Miſpriſion of Treaſon.</item>
+                  <item>Felony, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Written by the Right Honourable <hi>FRANCIS BACON,</hi> Lord <hi>Verulam,</hi> Viſcount <hi>St. Alban.</hi>
+            </p>
+            <p>And now Reprinted for the Publick Benefit.</p>
+            <q>
+               <p>Indici conjurationis praemia conſtituta.</p>
+               <bibl>Saluſt. in Conjur. Catil.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Sam. Heyrick,</hi> at <hi>Grayes-Inn-Gate</hi> in <hi>Holborn,</hi> and <hi>Matthew Gilliflower,</hi> in <hi>Weſtminſter-Hall,</hi> 1681.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:102884:2" rendition="simple:additions"/>
+            <pb facs="tcp:102884:2"/>
+            <head>ERRATA.</head>
+            <p>PAge 5. Line 4. <hi>for</hi> Dejective, <hi>read</hi> Directive. pag. 20. lin. <hi>ult. for</hi> kill, <hi>read</hi> kills. pag. 21. lin. 12. <hi>for</hi> Caſe, <hi>r.</hi> Care. pag. 23. l. 14. <hi>for</hi> myſteries are, <hi>read</hi> miſtreſs is. <hi>ibid.</hi> l. 15. <hi>for</hi> there <hi>read</hi> ſhe. p. 35. l. 19. <hi>for</hi> without, <hi>read</hi> within. p. 36, l. 7. <hi>for Regne,</hi> read <hi>Rigne.</hi> p. 37. l. 10. for <hi>Aid,</hi> r. <hi>Ayel. ibid.</hi> l. 18. for <hi>Heires Facus,</hi> r. <hi>Haeres Factus.</hi> p. 49. l. 15. for <hi>I. S.</hi> r. <hi>I. D.</hi> p. 55. l. 6. <hi>for</hi> word, <hi>r.</hi> Ward. <hi>ibid.</hi> l. 14. l. 15. l. 17. for <hi>Coſtigaſe,</hi> read <hi>Ceſty que uſe.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102884:3"/>
+            <pb n="3" facs="tcp:102884:3"/>
+            <head>THE LEARNED Readings OF <hi>Robert Holbourne,</hi> Eſq;</head>
+            <div n="1" type="lecture">
+               <head>Lecture <hi>I.</hi>
+               </head>
+               <p>BEfore the Statute, Treſ<g ref="char:EOLhyphen"/>paſſes were made Fe<g ref="char:EOLhyphen"/>lonies, &amp; Felonies were made Treaſons; and we could
+<pb n="4" facs="tcp:102884:4"/>not judge which were Felo<g ref="char:EOLhyphen"/>nies, and which were Treaſons, but it did reſt in the breaſt of the <hi>Judges</hi> that were in thoſe days. For the prevent<g ref="char:EOLhyphen"/>ing of which miſchief, this Statute, which I now Read upon, was made, which hath two Parts:<note place="margin">The parts of the Sta<g ref="char:EOLhyphen"/>tute are firſt De<g ref="char:EOLhyphen"/>clarative.</note> A Declarative part; and that doth declare what ſhall hereafter be judg<g ref="char:EOLhyphen"/>ed Treaſon: And Treaſon alſo is commonly divided into two parts; that is,</p>
+               <p>Firſt,<note place="margin">High Trea<g ref="char:EOLhyphen"/>ſon.</note> 
+                  <hi>High Treaſon,</hi> that is, againſt the Perſon of the King; and that will fall out for this days Work. Second<g ref="char:EOLhyphen"/>ly,<note place="margin">Petty Trea<g ref="char:EOLhyphen"/>ſon.</note> 
+                  <hi>Petty Treaſon,</hi> which is in the latter part of the Sta<g ref="char:EOLhyphen"/>tute,
+<pb n="5" facs="tcp:102884:4" rendition="simple:additions"/>as will appear here<g ref="char:EOLhyphen"/>after.</p>
+               <p>The ſecond part of this Statute is the Dejective part,<note place="margin">And ſe<g ref="char:EOLhyphen"/>condly Dejective High Trea<g ref="char:EOLhyphen"/>ſon.</note> and directs the <hi>Judges</hi> how far to proceed upon a Fact that is not within the Sta<g ref="char:EOLhyphen"/>tute.</p>
+               <p>
+                  <hi>High Treaſon</hi> is againſt the perſon of the King, or againſt his Government, <hi>viz.</hi> as againſt his <hi>Judges, Seals,</hi> and <hi>Coyns.</hi> Theſe are the Diviſions that I ſhall make of this Law.</p>
+               <div type="part">
+                  <head>The definition of Treaſon.</head>
+                  <p>It is <hi>Leſa Majeſt.</hi>
+                     <note place="margin">The defi<g ref="char:EOLhyphen"/>nition of Treaſon.</note> which comprehends the Perſon of
+<pb n="6" facs="tcp:102884:5"/>the King, and his Officers of Juſtice. For the Perſon of the King and the Treaſons that are committed more im<g ref="char:EOLhyphen"/>mediately againſt his Perſon and they are <hi>Acts</hi> and <hi>Per<g ref="char:EOLhyphen"/>ſons.</hi>
+                  </p>
+                  <p>
+                     <hi>Perſons,</hi> they are of two ſorts; <hi>Perſons</hi> againſt whom and the <hi>Perſons</hi> by whom theſe <hi>Treaſons</hi> are committed The <hi>Acts,</hi> and they are di<g ref="char:EOLhyphen"/>vers.</p>
+                  <p>As firſt, <hi>Compaſſing th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Death of the King:</hi> And fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> explanation of this word <hi>Compaſſing,</hi> it is an old word ſignifying not a bringing t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> paſs only, but a <hi>going about</hi> as you ſhall find it in <hi>Britto<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                     <pb n="7" facs="tcp:102884:5"/>and the <hi>Mir. of Juſt.</hi> but it is ſince called in <hi>Latine Machi<g ref="char:EOLhyphen"/>natio,</hi> and a <hi>going about,</hi>
+                     <note place="margin">1 Mar. Bro. tit. Treaſ. 24.</note> or <hi>compaſſing</hi> is Treaſon, though no effect do follow; as a <hi>compaſſing</hi> to kill the King, though he be not kild; ſo a <hi>compaſſing</hi> without any other Act is Treaſon: But there may be an Act done that doth effect the death of the King, and yet no Treaſon, if there be no <hi>compaſſing:</hi> as in the Caſe of Sir <hi>Walter Terril,</hi> who ſhooting at a Deer, his Ar<g ref="char:EOLhyphen"/>row glanced againſt a Tree, and ſtruck King <hi>William Ru<g ref="char:EOLhyphen"/>fus</hi> upon the breaſt that he died:<note place="margin">Hollingſ<g ref="char:EOLhyphen"/>head.</note> and this was not Trea<g ref="char:EOLhyphen"/>ſon, becauſe there was no
+<pb n="8" facs="tcp:102884:6"/>
+                     <hi>compaſſing.</hi> And ſo it is in the Caſe of a Phyſitian, as if the King takes Phyſick and dyes of the Phyſick working, yet if it be not notoriouſly groſs, and it doth not ap<g ref="char:EOLhyphen"/>pear that he did any way <hi>compaſs</hi> the Death of the King, this is not treaſon with<g ref="char:EOLhyphen"/>in this Law; for in the Caſe of a common perſon, if a Phyſitian give one Phyſick, whereof he dyes, this is not Felony in him, although the Phyſitian had no Licenſe to practice Phyſick; for it is his fault that he will take Phyſick of him; and <hi>volenti non fit injuria.</hi> If the Prince in perſon aſſaults a man, and
+<pb n="9" facs="tcp:102884:6"/>drives him ſo hard againſt the Wall, that if he do not defend himſelf he will kill him, and he cannot do it without danger to the Prince; in that Caſe he ought not to defend himſelfe, but ought rather to dye than hazard the perſon of the Prince, becauſe he is <hi>Caput &amp; ſalus Reipub.</hi> and yet Nature doth teach a man to defend himſelfe a<g ref="char:EOLhyphen"/>gainſt all danger. And thus much for <hi>Acts</hi> without <hi>com<g ref="char:EOLhyphen"/>paſſing.</hi> And yet ſome of theſe <hi>Acts</hi> that are without <hi>compaſ<g ref="char:EOLhyphen"/>ſing</hi> are left to the Jury to judge of, and ſome others are left to the Judges to judge of, as by preſumption of
+<pb n="10" facs="tcp:102884:7"/>Law; as in <hi>Murder,</hi> the<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ought to be malice fore<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thought, and yet if an Officer in executing of his Office b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſlain, this is Murder by th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Law, and yet in this Caſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> there do not appear any ma<g ref="char:EOLunhyphen"/>lice fore-thought, and ſo in this Caſe the Law makes an Evidence for the Jury, and ſo in deeds of the like Caſes.</p>
+                  <p>The ſecond Act is <hi>Viola<g ref="char:EOLhyphen"/>ting;</hi> and this word is deri<g ref="char:EOLhyphen"/>ved of <hi>vi perdendo,</hi> but yet it may be done without any force at all.</p>
+                  <p>The third <hi>Act</hi> is <hi>Levying War againſt the King:</hi> And what ſhall be ſaid of <hi>Levy<g ref="char:EOLhyphen"/>ing War?</hi> that may be divers
+<pb n="11" facs="tcp:102884:7"/>ways; As if the Inhabitants of a Town will gather them<g ref="char:EOLhyphen"/>ſelves together to pull down the Fences of a Common,<note place="margin">See <hi>Saint John's</hi> ar<g ref="char:EOLhyphen"/>gument in <hi>Sherly</hi> of <hi>Shefield</hi>'s Caſe.</note> in which they have no Intereſt or Common, nor ever had, this is Treaſon within this Law; but if they had an In<g ref="char:EOLhyphen"/>tereſt or Common there, then it is no Treaſon: but if they ſhall do it by Force of Arms in a War-like manner, <hi>Qu.</hi> but in the firſt Caſe it is a <hi>Levying of War againſt this Government.</hi>
+                  </p>
+                  <p>Another <hi>Levying of War</hi> may be againſt the King,<note place="margin">Nota.</note> as if it be to the diſplacing of his Officers, as in the Earl of <hi>Eſſex</hi> his Caſe, in his com<g ref="char:EOLhyphen"/>ing
+<pb n="12" facs="tcp:102884:8"/>to the City of <hi>London</hi> for to remove Officers that were about the Queen, this was Treaſon: and ſo it is alſo to the ſame purpoſe in 1 <hi>Mar. Dyer</hi> 24. and ſo it ap<g ref="char:EOLhyphen"/>pears,<note place="margin">
+                        <hi>1</hi> Mar. Dy<g ref="char:EOLhyphen"/>er <hi>24.</hi>
+                     </note> 
+                     <hi>A man may Levy War againſt the King, although he hath no intent to meddle with the perſon of the King, or any way to hurt him;</hi> and ſo you ſhall find alſo in <hi>Bro. Tit. Treaſon</hi> 14.<note place="margin">Brok tit. Treaſon <hi>14.</hi>
+                     </note> 
+                     <hi>And if any Levy War without the King, this is a Levying of War within the Law,</hi>
+                     <note place="margin">8 <hi>Hen.</hi> 8.</note> 8 H. 8. If two conſpire to <hi>Levy War,</hi> and one alone doth it, this is Treaſon in both.</p>
+                  <p>The fourth part is to <hi>Ad<g ref="char:EOLhyphen"/>here
+<pb n="13" facs="tcp:102884:8"/>to the King's Enemies;</hi>
+                     <note place="margin">Nota.</note>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd firſt, who ſhall be ſaid <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o be <hi>Enemies within this Law.</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>econdly, who ſhall be ſaid <hi>Adhering to them that are E<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>emies within this Law.</hi> This word <hi>Enemy</hi> cannot extend <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o Subjects, for they are Re<g ref="char:EOLhyphen"/>bels and no Enemies, and ſo it is expreſt in the <hi>Iriſh</hi> Statutes:<note place="margin">See <hi>Iriſh</hi> Statutes.</note> and this Statute cannot be taken according <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o <hi>Equity,</hi> for it is a <hi>Penal Law,</hi> and of the greateſt pe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alty that is; and therefore <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he <hi>aiding of Rebels cannot be meant any way the aiding of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he King's Enemies within this Law.</hi> Aiding the Enemies within or without is an aid<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:102884:9"/>of thoſe that come into the Land, or of thoſe that are without. A Subject is of two ſorts,<note place="margin">Subjects two ſorts.</note> 
+                     <hi>ratione originis,</hi> and a Subject <hi>ratione loci.</hi>
+                  </p>
+                  <p>A Subject <hi>ratione originis,</hi>
+                     <note place="margin">
+                        <hi>1.</hi> Ratione originis.</note> cannot be an Enemy, al<g ref="char:EOLhyphen"/>though he doth Levy War (in reſpect of his Obedience) but a Rebel he ſhall be.</p>
+                  <p>A Subject <hi>ratione loci,</hi>
+                     <note place="margin">
+                        <hi>2.</hi> Ratione loci.</note> du<g ref="char:EOLhyphen"/>ring his reſidence here, he can be no Enemy neither, but if he goeth over Sea, and then Levy War againſt this King<g ref="char:EOLhyphen"/>dom, or any other of his Ma<g ref="char:EOLhyphen"/>jeſties Kingdoms, he is then an Enemy within this Law, and no Rebel.<note place="margin">Dominium duplex.</note>
+                  </p>
+                  <p>There is alſo <hi>Dominium
+<pb n="15" facs="tcp:102884:9"/>rectum, &amp; Dominium utile,</hi> for <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f a man be born within the <hi>Dominium rectum,</hi> as that of <hi>Scotland</hi> in ancient time, and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>here he Levy War, he is an Enemy and no Rebel: but if <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e be born within the <hi>Domi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ium utile,</hi> and Levy War, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e is a Rebel, and not an E<g ref="char:EOLhyphen"/>nemy.</p>
+                  <p>
+                     <hi>Aiding,</hi> is by ſending them Aid, as of Victuals, or of Weapons, and the like, by giving of them Counſel, or <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y any other way, whereby <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hey may receive ſtrength or comfort from him.</p>
+                  <p>Now for the perſons by whom this <hi>Levying of War</hi> may be, and as to that <hi>all
+<pb n="16" facs="tcp:102884:10"/>Levies</hi> are within this Law as well Women as Men, for Women are comprehended under this word <hi>Man.</hi>
+                  </p>
+                  <p>Secondly, <hi>Perſons of all Nations,</hi> that are within this Land, are within this Law<g ref="char:punc">▪</g> for as they ſhall have prote<g ref="char:EOLhyphen"/>ction by the Laws of the Land, ſo they ought at their peril to take notice of the Law, ſo ſoon as they come into the Land; for they ought to have notice given them, and cannot alledge igno<g ref="char:EOLhyphen"/>rance if it be not given them, eſpecially in ſuch Laws as this, that are ſo beneficial both the King and Kingdom.</p>
+                  <p>Thirdly, <hi>Perſons of all De<g ref="char:EOLhyphen"/>grees,</hi>
+                     <pb n="17" facs="tcp:102884:10"/>as a Queen that is mar<g ref="char:EOLhyphen"/>ried to the King attempting <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he death of the King, is within this Law. A Forreign Ambaſſador is alſo within <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>his Law; but if a Foreign King ſhould come into this Land, by Licenſe, and here <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ompaſs</hi> the death of the King, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he queſtion will be how he <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hall be tried? for, he is a King here, and therefore <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ught to be tried <hi>per Pares,</hi> which he cannot be, for o<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her Honours are not allow<g ref="char:EOLhyphen"/>ed here.</p>
+                  <p>Fourthly, all Ages are with<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n this Law, as in Folks which have knowledge, or men of <hi>non ſanae memoriae,</hi> and
+<pb n="18" facs="tcp:102884:11"/>a mad man is alſo within this Law, as to that part of the Statute which concerns more immediately the Perſon of the King; for if any of them afore mentioned in this di<g ref="char:EOLhyphen"/>viſion ſhall <hi>compaſs</hi> his death it is Treaſon within the firſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Clauſe, but not in the Clauſe of <hi>Levying War,</hi> as I ſhal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhew you afterwards: but a man that is <hi>ſurdus, caecus &amp; mutus,</hi> is not within this Law for it is impoſſible for him to have underſtanding.</p>
+                  <p>Now for the perſons a<g ref="char:EOLhyphen"/>gainſt whom; a King befor<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his Coronation is within thi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Law,<note place="margin">Northum<g ref="char:EOLhyphen"/>berland<hi>'s Caſe.</hi>
+                     </note> as it is in the Duke o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Northumberland's</hi> Caſe, for h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="19" facs="tcp:102884:11"/>is preſently a King, as ſoon as the other King deceaſeth, and there is no <hi>Interregnum;</hi> for the King, <hi>quatenus</hi> a King, never dieth, but he is ſaid to Demiſe, when he departs this Life; and the King is Crown<g ref="char:EOLhyphen"/>ed becauſe he is a King, and not a King becauſe he is Crowned; a King <hi>de facto,</hi> and not <hi>de jure,</hi> is a King within this Law;<note place="margin">See 4 <hi>E.</hi> 4.1. 9 <hi>E.</hi> 4.12.</note> as it is in 4 <hi>E.</hi> 4.1. and 9 <hi>E.</hi> 4.12. A King con<g ref="char:EOLhyphen"/>jugal or marital, that takes to Wife the Queen of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> is within this Law; a Queen that is married, al<g ref="char:EOLhyphen"/>though the marriage be void, yet that Queen is within this Law; ſo is a Queen married
+<pb n="20" facs="tcp:102884:12" rendition="simple:additions"/>by <hi>Proxy;</hi> a Queen within Age is alſo within this Law.</p>
+               </div>
+               <div type="part">
+                  <head>The firſt Caſe.</head>
+                  <p>
+                     <hi>I. S.</hi> after the Divorce of the Wife of the Grandchild,<note place="margin">Firſt Caſe.</note> and Heir apparent to the Queen, doth violate her, and imagine the Death of the huſ<g ref="char:EOLhyphen"/>band, and declares this to <hi>I. D.</hi> and after kills the huſ<g ref="char:EOLhyphen"/>band of the Queen, and con<g ref="char:EOLhyphen"/>ſpir'd to <hi>Levy War</hi> againſt the Queen, and delivers to <hi>I. D.</hi> money to buy Arms, and af<g ref="char:EOLhyphen"/>ter becomes mad, and Aids the Enemies of the Queen within the Realm, and then kills the Queen.</p>
+                  <pb n="21" facs="tcp:102884:12" rendition="simple:additions"/>
+                  <p>The Concluſion is, Firſt, <hi>I. S.</hi> is a Traytor within this Law, for killing the Huſ<g ref="char:EOLhyphen"/>band of the Queen, and for conſpiring to Levy War, and for killing of the Queen, and in every one of theſe.</p>
+                  <p>The ſecond Concluſion is, that <hi>I. S.</hi> is not a Traytor with<g ref="char:EOLhyphen"/>in this Law, for imagining the death of the Grandchild; and yet he is within the Caſe of the Law, not for violating of his Wife, nor for aiding of the Enemies.</p>
+                  <p>
+                     <hi>I. S.</hi> is a Traytor within this Law, for killing the huſ<g ref="char:EOLhyphen"/>band of the Queen, but not within theſe words, <hi>That who<g ref="char:EOLhyphen"/>ſoever ſhall conſpire or compaſs
+<pb n="22" facs="tcp:102884:13"/>the death of the King;</hi> for as to that Clauſe he is not <hi>King,</hi> for the <hi>Queen</hi> is Regent, and not he, and ſo not within that Clauſe, nor the meaning of it, but he is within this word <hi>Companion;</hi> for he is as good a Companion to the Queen, as the Queen is to the King; and ſo within the ſame Rea<g ref="char:EOLhyphen"/>ſon of Law: For the husband of the Queen, in ſuch a Caſe, is in a better condition and plight than a Queen to a King, and ſo upon a ſtronger Rea<g ref="char:EOLhyphen"/>ſon; but this you muſt take as a Rule that I have ſaid be<g ref="char:EOLhyphen"/>fore, <hi>viz.</hi> that this Statute is not to be taken by <hi>Equity;</hi> and this you ſhall find as an<g ref="char:EOLhyphen"/>other
+<pb n="23" facs="tcp:102884:13" rendition="simple:additions"/>Rule, as well for the ex<g ref="char:EOLhyphen"/>pounding this Statute as any other:<note place="margin">Bro. Treaſ. for. <hi>12.12.</hi> aſſ. pl. <hi>30.</hi>
+                     </note> that thoſe Caſes that ſtand upon the ſame Rea<g ref="char:EOLhyphen"/>ſon ſhall be within the ſame Law, although not taken by <hi>Equity;</hi> for where there is the ſame identity, parity or majority of Reaſon in any Caſes, there ought to be the ſame Law; as it is in the Sta<g ref="char:EOLhyphen"/>tute of <hi>Glouceſter</hi> concerning Waſte, and in this our Sta<g ref="char:EOLhyphen"/>tute, the myſteries are not named; yet there is within this Law, for if the Servant kills the Wife of his Maſter, knowing her to be his Ma<g ref="char:EOLhyphen"/>ſters Wife, this is adjudged <hi>Petty Treaſon</hi> by the Judge<g ref="char:EOLhyphen"/>ment
+<pb n="24" facs="tcp:102884:14"/>of all the Judges of both <hi>Benches,</hi>
+                     <note place="margin">Com. <hi>87.6.</hi> Fitz. Com. <hi>7.118.</hi> Brook tit. treaſ. <hi>8.</hi>
+                     </note> 19 <hi>H.</hi> 6.47. <hi>Com.</hi> 87.6. <hi>Fitz. Com.</hi> 7.118. <hi>Bro. Tit. Treaſon</hi> 8. For as well the Miſtreſs as the Ma<g ref="char:EOLhyphen"/>ſter hath affiance in him, and he ought to give Reverence to his Miſtreſs as well as his Maſter, and yet the Maſter is only named in this Statute; but in our Caſe, the expreſs words are, <hi>That if any man ſhall Compaſs the death of the Kings Companion, it ſhall be Treaſon;</hi> and ſo there is an expreſs <hi>proviſo</hi> for him, being the <hi>Companion;</hi> for he is a <hi>Com<g ref="char:EOLhyphen"/>panion</hi> to the Queen. A ſe<g ref="char:EOLhyphen"/>cond Difference between our Caſe, and the Caſe of the Mi<g ref="char:EOLhyphen"/>ſtreſs,
+<pb n="25" facs="tcp:102884:14"/>is, that ſhe is his Mi<g ref="char:EOLhyphen"/>ſtreſs, but <hi>gratia,</hi> and under the power of her Husband; but in our Caſe the King ma<g ref="char:EOLhyphen"/>rital hath a Superiority over his Wife, as he is her Husband; and ſo our Caſe is a farre ſtronger Caſe.</p>
+                  <p>If a Child kills his Father, or Mother, this is <hi>Petty Trea<g ref="char:EOLhyphen"/>ſon;</hi> and ſo it was alſo at the Common Law, before the ma<g ref="char:EOLhyphen"/>king of this Statute,<note place="margin">
+                        <hi>21</hi> E. <hi>3.17</hi> Bro. tit. Sanctuar. <hi>2.</hi> Bro. tit. Treaſ. <hi>6.</hi>
+                     </note> 21 <hi>E.</hi> 3.17. <hi>Bro. Tit. Sanct.</hi> 2. and <hi>Bro. Tit. Treaſ.</hi> 6. becauſe there is a higher majority of Reaſon than that of a Servant, which is the Reaſon of the Submiſ<g ref="char:EOLhyphen"/>ſion and Duty that is to the Father and Mother from the
+<pb n="26" facs="tcp:102884:15"/>Child, and where there is a majority of Reaſon, or a pa<g ref="char:EOLhyphen"/>rity of Reaſon for the one Caſe as there is for the other, there is always the ſame Law.</p>
+                  <p>But you will <hi>Object,</hi>
+                     <note place="margin">
+                        <hi>1</hi> &amp; <hi>2</hi> Ph. &amp; Mar. c. <hi>9.</hi>
+                     </note> there is a Statute made 1 &amp; 2 <hi>Phil. &amp; Mar. cap.</hi> 9. that if any ſhall imagine the death of the King, that it ſhall be Treaſon; and therefore he was not pro<g ref="char:EOLhyphen"/>vided for before this Statute, and therefore this Statute was made: if it were Trea<g ref="char:EOLhyphen"/>ſon before this Statute, then this Statute was made in vain and to no purpoſe.</p>
+                  <p>That that Statute doth pro<g ref="char:EOLhyphen"/>vide as well for the preſer<g ref="char:EOLhyphen"/>vation of the Queen,<note place="margin">Anſw.</note> as for
+<pb n="27" facs="tcp:102884:15"/>the King, and makes it Trea<g ref="char:EOLhyphen"/>ſon for any to <hi>compaſs</hi> the death of the Queen, and therefore <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t cannot be concluded from <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hence, that it was not Trea<g ref="char:EOLhyphen"/>ſon to <hi>compaſs</hi> her death be<g ref="char:EOLhyphen"/>fore that Statute. The ſecond Reaſon is, becauſe that Statute doth provide for other mat<g ref="char:EOLhyphen"/>ters, as it doth there appear.</p>
+                  <p>The next Point is the de<g ref="char:EOLhyphen"/>claring of this his imaginati<g ref="char:EOLhyphen"/>on to <hi>I. D.</hi> which is an Overt Act;<note place="margin">1 <hi>Mar. Bro. tit. treaſ.</hi> 24. The ſe<g ref="char:EOLhyphen"/>cond point</note> for an overt Act is the de<g ref="char:EOLhyphen"/>claring of his Mindand Inten<g ref="char:EOLhyphen"/>tions to others, by ſuch words as imply an Act to follow, or by bidding a man to do what he hath intended, or to do any thing that may tend to
+<pb n="28" facs="tcp:102884:16"/>his purpoſe, or by writing to declare his mind: but if a man have a thought of Kil<g ref="char:EOLhyphen"/>ling the King, this is onely <hi>Primus motus;</hi> and although he afterwards tells another that he had ſuch a thought this is no Overt Act; but i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he doth cheriſh this thought then it becomes his own, and then he tells it to another, that he hath ſuch an intention this is an Overt Act; for the words he doth ſpeak, are words <hi>executory,</hi> and imply that he will do ſuch an Act<g ref="char:punc">▪</g> Or if <hi>A.</hi> conſpire with <hi>B.</hi> to kill the King, this is an Overt Act; but to imagine with himſelf is not, becauſe it can<g ref="char:EOLhyphen"/>not
+<pb n="29" facs="tcp:102884:16"/>come to be known: words of encouragement to others is an Overt Act alſo.</p>
+                  <p>For <hi>conſpiring to levy War,</hi> is the next, and this is Trea<g ref="char:EOLhyphen"/>ſon within this Law, al<g ref="char:EOLhyphen"/>though it be not within the words of the Statute; but yet it is within the meaning and reaſon of the Statute: for how is it poſſible for any to Levy War, but he muſt con<g ref="char:EOLhyphen"/>ſpire the death of the King,<note place="margin">Nota.</note>or his depoſing at leaſt? and the conſpiring to do either of theſe, is Treaſon within this Law, as aforeſaid; and that within this word <hi>Compaſ<g ref="char:EOLhyphen"/>ſing;</hi> which, as I ſaid before, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of a very large extent, but
+<pb n="30" facs="tcp:102884:17"/>I muſt confeſs the <hi>Intention</hi> is not ſo bad as an actual <hi>Le<g ref="char:EOLhyphen"/>vying of War,</hi> and yet it is as bad in him that doth in<g ref="char:EOLhyphen"/>tend it. And this <hi>Levying o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> War</hi> doth mediately look a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the perſon of the King<g ref="char:punc">▪</g> though not immediately; and ſo in that reſpect it is Trea<g ref="char:EOLhyphen"/>ſon, and ſo it is of depoſing; and ſo is the Statute of 1 <hi>E.</hi> 6. <hi>cap.</hi> 12. and ſo you ſhall find it in Doctor <hi>Storie's</hi> caſe, 13 <hi>Eliz: Dyer</hi> 298. <hi>b.</hi>
+                     <note place="margin">
+                        <hi>1</hi> E. <hi>6.12.</hi> Dyer. Sto<g ref="char:EOLhyphen"/>ry <hi>'s Caſe. 13</hi> Eliz. Dyer <hi>298.</hi>
+                     </note> who did conſpire with a Foreign Prince to invade this Land, and ſhewed him a means how to conquer this Kingdom, and yet there was no Act done by that Prince againſt
+<pb n="31" facs="tcp:102884:17"/>the Queen, yet this is adjudg<g ref="char:EOLhyphen"/>ed Treaſon; and the reaſon there yielded, was, becauſe this Invaſion could not poſ<g ref="char:EOLhyphen"/>ſibly be without great hazard and peril to the perſon of the Queen, which is a very full Caſe in proving of this point.<note place="margin">19 <hi>H.</hi> 6.47.</note> But a conſpiring to <hi>Coyn Money,</hi> is not Treaſon within this Law, becauſe it is not againſt the perſon of the King; but yet if two ſhall conſpire to <hi>coyn Money,</hi> and one doth it alone without the other, yet this is Trea<g ref="char:EOLhyphen"/>ſon in both.</p>
+                  <p>The third point is, that <hi>I. S.</hi> after he became mad, kills the Queen, this is Trea<g ref="char:EOLhyphen"/>ſon
+<pb n="32" facs="tcp:102884:18"/>within this Law; firſt, becauſe a man may counter<g ref="char:EOLhyphen"/>feit himſelf to be mad, and he may do it ſo cunningly as it cannot be diſcerned whether he be mad or no.</p>
+                  <p>The ſecond Reaſon, is, in reſpect of the great eſteem that the Law gives to the per<g ref="char:EOLhyphen"/>ſon of the King; for he is the Fountain of Juſtice: and for the proof of this point, that it may be underſtood, we ought to ſee what the <hi>Com<g ref="char:EOLhyphen"/>mon Law</hi> was, before the ma<g ref="char:EOLhyphen"/>king of this Statute, as to this Point; and then we ought to enquire and ſee how the Law is altered ſince the making of the Statute; and
+<pb n="33" facs="tcp:102884:18"/>by this means, we ſhall find out the Law and the reaſon thereof; it is true, that the Law, without ſpecial words, will not bind an Inſant or a Mad-man, as to the puniſh<g ref="char:EOLhyphen"/>ment of their Bodies, but yet it will extend to their Lands and Eſtates; but this our Law is no new Law, but on<g ref="char:EOLhyphen"/>ly a Declarative Law, and in that Caſe general words will bind an Infant or a Mad<g ref="char:EOLhyphen"/>man without any ſpecial words. That it was Treaſon at the Common Law is ap<g ref="char:EOLhyphen"/>parent in <hi>Britton,</hi> and the <hi>Mirrour of Juſtice;</hi> and this Statute doth not declare who ſhall be Traytors, but what
+<pb n="34" facs="tcp:102884:19"/>ſhall be Treaſon, and there<g ref="char:EOLhyphen"/>fore by this Act it is Treaſon in a Mad-man, or whomſo<g ref="char:EOLhyphen"/>ever ſhall commit it; for a Mad-man is not excepted out of this Law: and to make this appear more fully, you may be pleaſed to read the Caſe of <hi>Beverly,</hi>
+                     <note place="margin">See <hi>Bever<g ref="char:EOLhyphen"/>leys</hi> Caſe. <hi>Com.</hi> 124.</note> in <hi>Com.</hi> 124. That a man that is <hi>non compos<g ref="char:EOLunhyphen"/>mentis</hi> may commit High Treaſon, although he can<g ref="char:EOLhyphen"/>not commit Petty Treaſon, nor Felony:<note place="margin">Daltons Juſt. <hi>206.</hi>
+                     </note> and ſo it is al<g ref="char:EOLhyphen"/>ſo in <hi>Dalton's Juſtice of Peace</hi> 206. that if a man that is <hi>non compos mentis,</hi> ſhall kill the King, this is High Treaſon. Nay, <hi>Beverley's</hi> Caſe goes far<g ref="char:EOLhyphen"/>ther, and ſayes, That if he
+<pb n="35" facs="tcp:102884:19" rendition="simple:additions"/>ſhall offer only to kill the King, this is High Treaſon,<note place="margin">Nota.</note> becauſe the King is <hi>Caput &amp; ſalus Reipub. &amp; à Capite bona valetudo tranſit in omnes:</hi> and for this Cauſe his perſon is ſo Sacred, that none muſt offer the leaſt violence to him; but he is <hi>Reus criminis laeſae Maje<g ref="char:EOLhyphen"/>ſtatis, &amp; pereat unus, ne pe<g ref="char:EOLhyphen"/>reant omnes.</hi>
+                  </p>
+                  <p>The ſecond Concluſion, is, That <hi>I. S.</hi> is not a Traytor within this Law, for imagin<g ref="char:EOLhyphen"/>ing the death of the Grand<g ref="char:EOLhyphen"/>child; yet he is within the Care and Protection of the Law; for he is not within the Words of the Law, but with<g ref="char:EOLhyphen"/>out the Intention and Reaſon
+<pb n="36" facs="tcp:102884:20"/>of the Law: for the words are, <hi>That if any man ſhall com<g ref="char:EOLhyphen"/>paſs the death of the Kings Eldeſt Son,</hi> that is Treaſon; but in the <hi>French</hi> Language, in which this Law was firſt written, it is <hi>Le Regne fils &amp; heir,</hi> and yet if the Eldeſt Son dyes, the ſecond Son is within the Law, becauſe he is then the Eldeſt Son; and ſo it is of the third Son, for then he is alſo Heir Apparent, and he is within the intenti<g ref="char:EOLhyphen"/>on and meaning of this Law. And ſo to this purpoſe is the Princes Caſe in <hi>Report</hi> 8. where it is,<note place="margin">
+                        <hi>Princes</hi> Caſe 8. Report.</note> that the Second Son ſhall be Duke of <hi>Cornwal</hi> after the death of the Eldeſt,
+<pb n="37" facs="tcp:102884:20" rendition="simple:additions"/>and yet it is only limited to the Eldeſt Son. A collateral Heir is alſo within this Sta<g ref="char:EOLhyphen"/>tute, becauſe, as he concei<g ref="char:EOLhyphen"/>veth, this Statute intends to provide that the next Heir to the Crown ſhall be ſecured from danger. And the Caſe that may be likened to this, is that, where a <hi>Writ of Aid</hi> may be brought by the next Heir; for the Writ ſaith, <hi>Cujus haeres ipſe eſt,</hi>
+                     <note place="margin">F. N. B. <hi>221</hi>
+                     </note> 
+                     <hi>F. N. B.</hi> 221. ſo that it appears, that it lies only for the Heir Lineal or Collateral, Male or Female.</p>
+                  <p>The Eldeſt Daughter is alſo within our Law, <hi>Heires Facus</hi> is alſo a grand Heir within this Law; but this
+<pb n="38" facs="tcp:102884:21"/>
+                     <hi>imagining</hi> or <hi>compaſſing the Death of the Grandchild,</hi> or of any other Heir, is not Trea<g ref="char:EOLhyphen"/>ſon, unleſs there be a ſuffici<g ref="char:EOLhyphen"/>ent Declaration of it to an<g ref="char:EOLhyphen"/>other: for no man can judge of the thoughts; for the <hi>ima<g ref="char:EOLhyphen"/>gination</hi> only can be no O<g ref="char:EOLhyphen"/>vert Act: and this Declara<g ref="char:EOLhyphen"/>tion of his <hi>imagination</hi> or <hi>compaſſing</hi> to <hi>I. D.</hi> is not a ſufficient Overt Act to make him a <hi>Traytor</hi> within this Law: for he told him that he had only ſuch an <hi>imaginati<g ref="char:EOLhyphen"/>on,</hi> which is but <hi>Primus mo<g ref="char:EOLhyphen"/>tus;</hi> for he doth not ſay that he will do it in the <hi>Future Tenſe,</hi> for that may be Trea<g ref="char:EOLhyphen"/>ſon, for that it doth imply
+<pb n="39" facs="tcp:102884:21"/>an Act to be done afterward; but the other is onely a<g ref="char:EOLhyphen"/>gainſt that is paſt. Then for violating the Wife after ſhe is divorc'd, this is not Trea<g ref="char:EOLhyphen"/>ſon within this Law. And yet the divorce is but <hi>a men<g ref="char:EOLhyphen"/>ſa &amp; thoro,</hi> but it is ſuch a divorce as deprives her of his Company, and ſo ſhe is not his Companion within this Law: but yet ſhe is his Wife, and a Wife divorc't <hi>a menſa &amp; thoro</hi> ſhall have her divorce; becauſe that divorce doth not diſſolve the Mar<g ref="char:EOLhyphen"/>riage, but ſhe remains his Wife ſtill; but yet if ſhe hath any Children during that divorce, they are all
+<pb n="40" facs="tcp:102884:22"/>
+                     <hi>Baſtards,</hi> becauſe ſhe is not to keep her Husband Com<g ref="char:EOLhyphen"/>pany. A Queen Dowager is not within this Law, becauſe ſhe is not <hi>Companion</hi> to the King; that then is, and is not provided for by this Law: for the words of the Statute are, <hi>If any ſhall vio<g ref="char:EOLhyphen"/>late the Kings Companion.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="lecture">
+               <pb n="41" facs="tcp:102884:22"/>
+               <head>Lecture <hi>II.</hi>
+               </head>
+               <p>THE Second <hi>Lecture,</hi>
+                  <note place="margin">The Se<g ref="char:EOLhyphen"/>cond Le<g ref="char:EOLhyphen"/>cture.</note> according to my firſt <hi>Diviſion</hi> is concerning the <hi>Government;</hi> and that is, Firſt, in the <hi>Seal,</hi> which is <hi>Clavis Regni.</hi> The Second in his <hi>Money</hi> and <hi>Coyn.</hi> The Third, in his <hi>Offices.</hi> For the Firſt, which are the <hi>Seals;</hi> and they are, firſt, The <hi>Great Seal.</hi> Secondly, the <hi>Privie Seal.</hi> And, Thirdly, the <hi>Seal of the Exchequer.</hi> And of all theſe <hi>Seals</hi> the Common Law takes ſpecial notice, as that
+<pb n="42" facs="tcp:102884:23"/>the King may grant to one Power to make one Attorney under the <hi>Privie Seale;</hi> and ſo is 37 <hi>H.</hi> 3.27. <hi>b. Co.</hi> 2.17. <hi>Lams</hi> Caſe;<note place="margin">37 <hi>H.</hi> 3.27. <hi>Co.</hi> 2.17. <hi>Lams</hi> Caſe.</note> and ſo of the other Seals: but our Law takes notice of the great Seal only as for point of <hi>Treaſon;</hi> for the words are excluſive to all other Seals; for that being the greateſt, excludes all o<g ref="char:EOLhyphen"/>ther inferior Seals that are the leaſt. Now what ſhall be ſaid of <hi>counterfeiting of this Great Seal?</hi> and that muſt be by making another Seal like to this, and for to Seal Patents with it: for, to make a Seal like the <hi>Great Seal,</hi> to put this to a piece of <hi>Wax</hi> onely,
+<pb n="43" facs="tcp:102884:23"/>is no <hi>counterfeiting of the Great Seal;</hi> but there ought to be a Writing annexed un<g ref="char:EOLhyphen"/>to it, and then it is a <hi>Coun<g ref="char:EOLhyphen"/>terfeiting within this Law:</hi>
+                  <note place="margin">Nota.</note> but if the Lord Keeper doth Seal a Patent without ſpecial Au<g ref="char:EOLhyphen"/>thority from the King, yet this is no <hi>Counterfeiting with<g ref="char:EOLhyphen"/>in this Law;</hi> or if any one do find this <hi>Great Seal,</hi> or other wayes obtain it, and Seals Patents therewith, this is not <hi>Counterfeiting</hi> neither, within this Law: for, if the Seal be truly and in due man<g ref="char:EOLhyphen"/>ner put to a Patent, and af<g ref="char:EOLhyphen"/>terwards the Patentee doth raze or add to the Patent in any place, this is no <hi>Counter<g ref="char:EOLhyphen"/>feiting,</hi>
+                  <pb n="44" facs="tcp:102884:24"/>as it is in <hi>Lakes</hi> Caſe,<note place="margin">
+                     <hi>Lakes</hi> Caſe 4 <hi>Jac.</hi>
+                  </note>4 <hi>Jac.</hi> and yet the razing of a Deed is the forging of a Deed.</p>
+               <p>Secondly, concerning <hi>coun<g ref="char:EOLhyphen"/>terfeiting the Kings Coyn;</hi> and this ought to be intended on<g ref="char:EOLhyphen"/>ly of the Kings own Money, for that only is meant by this Law, and not any Foreign Money; but Foreign Money is provided for by another Law. The coyning of Cop<g ref="char:EOLhyphen"/>per, if it be made Currant, is alſo within this Law: for it is only in the power of the King to imbaſe Coyn, as it is apparent in the Caſe of Money in <hi>Davices Reports;</hi>
+                  <note place="margin">Caſe of Money in <hi>Davices</hi> Reports.</note> for the King is Maſter of the
+<pb n="45" facs="tcp:102884:24"/>Coyn: but in the <hi>Mirrour of Juſtice,</hi> it is ſaid the King cannot alter his coyn; for thoſe things are not in this Law, becauſe they are not Currant within this Realm. Foreign Money is not within this law, becauſe at the time when this Law was made, all Fo<g ref="char:EOLhyphen"/>reign Money that was brought into this Realm, was but Bullion; becauſe it was a great deal worſer than that of this Nation: and Foreign<g ref="char:EOLhyphen"/>ers afterwards did make their Coyn finer, and than it was made Currant here by a Sta<g ref="char:EOLhyphen"/>tute, and ſo within this Law.</p>
+               <p>If any that have Authori<g ref="char:EOLhyphen"/>ty and Power to Mint or
+<pb n="46" facs="tcp:102884:25"/>Coyn, and he coyn pieces that are leſs in weight than they ought to have been, by the Authority by him given, this is a <hi>counterfeiting,</hi> be<g ref="char:EOLhyphen"/>cauſe he hath not purſued his Authority, and ſo is as if he had no Authority to make it of that weight, which he hath made it. And ſo is the 3 <hi>H.</hi> 7. <hi>c.</hi> 10. to coun<g ref="char:EOLhyphen"/>terfeit Foreign Money,<note place="margin">3 <hi>H.</hi> 7. <hi>c.</hi> 10</note> and to bring it over, is not a <hi>coun<g ref="char:EOLhyphen"/>terfeiting</hi> within this Law: but if one counterfeit the Coyn of this Kingdom be<g ref="char:EOLhyphen"/>yond the Sea, and brings it over and Merchandizes with it,<note place="margin">6 <hi>H.</hi> 7.13.</note> and thereby deceive our Merchants, this is a counter<g ref="char:EOLhyphen"/>feiting,
+<pb n="47" facs="tcp:102884:25"/>as in the Book afore<g ref="char:EOLhyphen"/>ſaid. And if one counter<g ref="char:EOLhyphen"/>feit the Coyn of this King<g ref="char:EOLhyphen"/>dom, although he doth not put it to others, yet this is a counterfeiting within this Law. 6 <hi>H.</hi> 7.13. 1 <hi>H.</hi> 31. <hi>Bro. Tit. Treaſ.</hi> 27. <hi>Stamf. Pleas</hi> 3. <hi>D.</hi>
+                  <note place="margin">
+                     <hi>1</hi> R. <hi>3.1.</hi> Bro. Tit. Treaſ. <hi>27.</hi> Stam. pl. <hi>3.</hi> D.</note>
+               </p>
+               <p>What ſhall we ſay to the bringing in of Money, what not? the bringing in of Fo<g ref="char:EOLhyphen"/>reign Money, ought to be in<g ref="char:EOLhyphen"/>tended of Money that is <hi>coun<g ref="char:EOLhyphen"/>terfeited</hi> in another Realm, and like unto ours; for the words are ſo, <hi>Money,</hi> and not of <hi>Foreigners Money.</hi> If two conſpire to Coyn and Coun<g ref="char:EOLhyphen"/>terfeit, and one of them doth
+<pb n="48" facs="tcp:102884:26"/>it,<note place="margin">
+                     <hi>19</hi> H. <hi>6.43.</hi> Stam. pl. <hi>3.</hi>
+                  </note> it is <hi>Treaſon</hi> in both, 19 <hi>H.</hi> 6.43. <hi>Stamf. Pleas</hi> 3. <hi>a.</hi> but an intention to counterfeit, is not Treaſon within this Law.</p>
+               <p>The Barons of the <hi>Exche<g ref="char:EOLhyphen"/>quer</hi> are within this Law, and it is agreed in <hi>Tanfields</hi> Caſe (who was one of the Barons of the <hi>Exchequer</hi>) that he was within the words of the Sta<g ref="char:EOLhyphen"/>tute; and the words of <hi>Oyer</hi> and <hi>Terminer</hi> are within this Law, but all other Judges are not; as the Eccleſiaſtical Judges are not within this Law; for they hold with the Court of <hi>Rome,</hi> and did de<g ref="char:EOLhyphen"/>rive their Authority from him in ancient Time. Nei<g ref="char:EOLhyphen"/>ther
+<pb n="49" facs="tcp:102884:26"/>is a Conſtable within this Law.</p>
+               <div type="part">
+                  <head>The ſecond Caſe.</head>
+                  <p>
+                     <hi>I. S.</hi> Slits the <hi>Great Seal,</hi>
+                     <note place="margin">The ſe<g ref="char:EOLhyphen"/>cond Caſe.</note> and cloſeth it to a <hi>Commiſſion,</hi> and coyns Money in the form of Shillings, <hi>invertendo</hi> the Arms, kills the <hi>Lord Keeper</hi> of the <hi>Great Seal</hi> in <hi>Chancery,</hi> and brings in falſe Money like <hi>Engliſh,</hi> to Merchandize, knowing it to be falſe, but doth not offer it, and <hi>I. S.</hi> knowing this doth ſuccour him.</p>
+                  <p>The <hi>Concluſion</hi> is, that I. D. is a Traytor <hi>in omnibus,</hi> and I. D. alſo within this Law;
+<pb n="50" facs="tcp:102884:27"/>the firſt Act is ſlitting of the Seal, and putting of it to the <hi>Commiſſion,</hi> and that is <hi>Trea<g ref="char:EOLhyphen"/>ſon;</hi> firſt, becauſe that is ſlit, whereby it is become now no Seal at all; it cannot be ſaid that this half is the <hi>Broad Seal,</hi> or that the other half is the <hi>Broad Seal;</hi> for they both together make but one <hi>Broad Seal;</hi> and when he hath cloſed them together again, and joyned them to a Commiſſion, he hath made the Seal a new, for it was no Seal when it was ſlit, but now it is.</p>
+                  <p>The ſecond Reaſon is, in reſpect of the miſchief that doth come by this tranſlating
+<pb n="51" facs="tcp:102884:27"/>of an old Seal to a new Com<g ref="char:EOLhyphen"/>miſſion; for both the King and his Subjects are as much abuſed, as if it had been coun<g ref="char:EOLhyphen"/>terfeited: and the Reaſon of Laws and not Authority ought to be our Rule to go by; for <hi>judicandum eſt legi<g ref="char:EOLhyphen"/>bus,</hi>
+                     <note place="margin">
+                        <hi>40</hi> Aſſ. <hi>33.</hi> &amp; Bro. Tit. Treaſ. <hi>17.</hi> Brit. cap. <hi>4.</hi> fol. <hi>10.</hi>
+                     </note> 
+                     <hi>non exemplis,</hi> and ſo he conceiveth the Caſe in <hi>Bro. Tit. Treaſ.</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. to be no grand Law. This was Treaſon alſo at Common Law, as you ſhall find it expreſt in <hi>Britton, cap.</hi> 4. <hi>fol.</hi> 10. and in the <hi>Mirror of Juſtice cap.</hi> 1. <hi>ſect.</hi> 6. and ſince the Statute in the ſame Kings time that this Statute was made in, and they who knew beſt the Reaſons and
+<pb n="52" facs="tcp:102884:28"/>Grounds of this Statute, and the meaning thereof, and were at the making thereof, by all likelihood, did adjudge it Treaſon, to take an old Seal from an old Patent, and to put it to a new one, as in 40 <hi>Aſſ. pl.</hi> 33. and 2 <hi>H.</hi> 4.33. and <hi>Stamford</hi> ſaith,<note place="margin">40 <hi>Aſſ. pl.</hi> 33. <hi>&amp;</hi> 2 <hi>H.</hi> 4.33.</note> that it was ſo adjudged in his time.</p>
+                  <p>In all Treaſons that do concern the perſon of the King, the judgement ought to be, <hi>That he ſhall be hanged, drawn, and quartered;</hi> but for other Treaſons that do not immediately concern the perſon of the King, the judg<g ref="char:EOLhyphen"/>ment ought to be, <hi>That he
+<pb n="53" facs="tcp:102884:28"/>ſhall be drawn and hanged on<g ref="char:EOLhyphen"/>ly;</hi> and not that he ſhall be <hi>quartered.</hi>
+                     <note place="margin">1 <hi>H.</hi> 6.5. 19 <hi>H.</hi> 6.47. 6 <hi>H.</hi> 7.13.</note> As it is in 1 <hi>H.</hi> 6.5. 19 <hi>H.</hi> 6.47.</p>
+                  <p>The ſecond Act is, <hi>The Counterfeiting of the Kings Money, and the inverting of the Arms of the King, whereby the Kings Liege people and others may be deceived:</hi> for that is a ſufficient Alteration to make it Treaſon, although it be ſuch a one as cannot be diſcerned without ſpecial no<g ref="char:EOLhyphen"/>tice taken of it. And this doth appear by the judgment given in the <hi>Star-Chamber,</hi> for the counterfeiting of Far<g ref="char:EOLhyphen"/>things. And it is Treaſon for any man to bear the
+<pb n="54" facs="tcp:102884:29"/>Kings Arms, as it appears in the Earl of <hi>Surreys</hi> Caſe.</p>
+                  <p>The third Act is, <hi>The kil<g ref="char:EOLhyphen"/>ling of the Officers of the King,</hi> as of the <hi>Lord Keeper,</hi> and that is Treaſon within this Law; for the <hi>Lord Keeper</hi> is now <hi>Chancellor,</hi> although at that time when this Statute was made, the <hi>Lord Chancel<g ref="char:EOLhyphen"/>lors Office,</hi> and the <hi>Lord Kee<g ref="char:EOLhyphen"/>pers Office</hi> were two ſeveral and diſtinct Offices, yet they are made now both one Of<g ref="char:EOLhyphen"/>fice;<note place="margin">5 <hi>Eliz. c.</hi> 18 15 <hi>E.</hi> 3. <hi>c.</hi> 2</note> and that is by the Sta<g ref="char:EOLhyphen"/>tute of 5 <hi>Eliz. cap.</hi> 18. and this Statute of 15 <hi>E.</hi> 3. <hi>cap.</hi> 2. may and doth extend to that Statute of 5 <hi>Eliz.</hi> which comes after, as is very fully expreſt
+<pb n="55" facs="tcp:102884:29" rendition="simple:additions"/>to the purpoſe, though not to this Caſe, in <hi>Co.</hi> 4. <hi>fol.</hi> 4. <hi>Vernon</hi>'s Caſe, the Statute of <hi>Marleborough,</hi> which was made 52 <hi>H.</hi> 3. gave the word of the Tenant that held by Knight-ſervice, notwith<g ref="char:EOLhyphen"/>ſtanding he had made a Feoffment by colluſion: from which time, and for 200 years and more, till the Sta<g ref="char:EOLhyphen"/>tute of the 4. of <hi>H.</hi> 7. <hi>cap.</hi> 17. which gave the Ward of the Heir of <hi>Coſtigaſe,</hi> the Heir of <hi>Coſtigaſe</hi> was not in Ward, and yet it is held in the 27 of <hi>H.</hi> 8.9. that if <hi>Coſtigaſe,</hi> after the Statute of 4 <hi>H.</hi> 7. makes a Feoffment in Fee by colluſion, to defraud the Lord
+<pb n="56" facs="tcp:102884:30"/>of his Ward, that this is ta<g ref="char:EOLhyphen"/>ken within the Equity of the Statute of <hi>Marleborough,</hi> and ſo of divers other Caſes that you may ſee there cited in <hi>Vernon</hi>'s Caſe above mentio<g ref="char:EOLhyphen"/>ned.</p>
+                  <p>The Fourth Act is, <hi>The bringing in of falſe Money, like unto our</hi> Engliſh <hi>Money, for to Merchandize withal;</hi> and this is Treaſon: for here is not only an intent, but there is alſo an Act joyned with this intent; for he brings over this Money, which is the Act, with an intent to Merchan<g ref="char:EOLhyphen"/>dize. The ſecond Conclu<g ref="char:EOLhyphen"/>ſion is, that <hi>I. D.</hi> is a Tray<g ref="char:EOLhyphen"/>tor within this Law, and his
+<pb n="57" facs="tcp:102884:30"/>Treaſon doth go or extend to all the other four Treaſons that were committed by I. S. for this ſuccouring of him after the Fact committed, makes him a Traytor within this Law. And at the Com<g ref="char:EOLhyphen"/>mon Law, before the making of this Statute, if a man had ſuccoured one that had com<g ref="char:EOLhyphen"/>mitted Treaſon, knowing him to have committed it, he had been a Traytor. And ſo if one doth now ſuccour a Fe<g ref="char:EOLhyphen"/>lon, it is Felony in the Suc<g ref="char:EOLhyphen"/>courer. And why ſhould it not be ſo in our Caſe? For the Reaſon of Law in our Caſe is far ſtronger, that the Succou<g ref="char:EOLhyphen"/>rer of a Traytor, ſhould be a
+<pb n="58" facs="tcp:102884:31"/>Traytor; than the ſuccour<g ref="char:EOLhyphen"/>or of a Felon ſhould be a Fe<g ref="char:EOLhyphen"/>lon, becauſe the Offence is greater; and therefore it is an aggravation of his puniſh<g ref="char:EOLhyphen"/>ment, to make him that no man ſhall receive or ſuccour him: for we ſee the Law in<g ref="char:EOLhyphen"/>flicts a greater puniſhment upon a Traytor than upon a Felon; and that is to deterr men from ſuch Acts as thoſe are. And ſo it appears that there is Reaſon why he ſhould be a Traytor, although he be not within the words of the Statute. And therefore it is in the Reaſon of the Statute. Another Reaſon is, becauſe the Statute doth not ſay who
+<pb n="59" facs="tcp:102884:31"/>ſhall be Traytors, but what ſhall be Treaſon, and this word <hi>Treaſon</hi> ſhall be taken with all its Concomitants and Accidents, as it was at Common Law; and then that was a concomitant to Treaſon that the Succourer ſhould be a Traytor.</p>
+                  <p>But it is ſo in 3 <hi>H.</hi> 7. <hi>fol.</hi> 10.<note place="margin">Object.</note> that the Succourer in Treaſon is no Traytor.</p>
+                  <p>The Reaſon of that Caſe is,<note place="margin">Anſw.</note> becauſe the Judgement was, that he knowing <hi>eam proditionem praedictam perpe<g ref="char:EOLhyphen"/>trdffe felonice hoſpitalis fuit:</hi> and this was not grand, be<g ref="char:EOLhyphen"/>cauſe he was in that Caſe in<g ref="char:EOLhyphen"/>dicted as an Acceſſary, and
+<pb n="60" facs="tcp:102884:32"/>was not indicted as a Tray<g ref="char:EOLhyphen"/>tor; for there can be no <hi>Ac<g ref="char:EOLhyphen"/>ceſſaries</hi> in <hi>Treaſons,</hi> as there is in <hi>Felonies.</hi> See <hi>Fitz. Tit. Cor.</hi> 55.<note place="margin">Fitz. Tit. Coron. <hi>55.</hi> Bro. Tit. Coron. <hi>135.</hi>
+                     </note> 
+                     <hi>Bro. Tit. Coron.</hi> 135. and for expreſs Authority it is in 1 <hi>H.</hi> 6.5. for if this Statute had made Felony Treaſon, and one doth commit that Treaſon, and <hi>A.</hi> ſuccours him, knowing of it, it had been abſurd for to have ſaid, that the Succourer ſhould have been only a Felon: but our Caſe is ſtronger; for this Law doth not make any one a Traytor, but only declares what ſhall be adjudged Trea<g ref="char:EOLhyphen"/>ſon; but if this Statute had expreſt, that all Abettors
+<pb n="61" facs="tcp:102884:32"/>ſhould have been Traytors, then the Receivers or Succou<g ref="char:EOLhyphen"/>rers ſhould not have been Traytors within this Law; for then the intent of the Ma<g ref="char:EOLhyphen"/>kers would plainly appear, that it was not intended that the Receivers or Succou<g ref="char:EOLhyphen"/>rers after the Fact ſhould have been within this Law, but only the Abettors before and at the Fact.</p>
+               </div>
+            </div>
+            <div n="3" type="lecture">
+               <pb n="62" facs="tcp:102884:33"/>
+               <head>Lecture <hi>III.</hi>
+               </head>
+               <p>THis <hi>Lecture</hi> is of <hi>Petty Treaſon,</hi> and Petty Treaſons doth very little differ from Felonies; for by the pardon of all Fe<g ref="char:EOLhyphen"/>lonies, all Petty Treaſons are pardoned,<note place="margin">Stamf. fol. <hi>2.</hi> b.</note> 
+                  <hi>Stam. fol.</hi> 2. <hi>b.</hi> but it hath ſome correſpon<g ref="char:EOLhyphen"/>dency with other Treaſons; and that is in reſpect of the Duty and Obedience that is due to each other; as it is from the Subjects to the King, ſo from the Servant to the Maſter. All Servants, although
+<pb n="63" facs="tcp:102884:33"/>they receive no Wages, but only Meat and Drink, are within this Law. A Servant that is not compellable to ſerve by this Statute, yet if he doth ſerve, he is within this Law. And ſo is a Bayliff of a Mannor; for if he kill the Lord of the Mannor, it is <hi>Pet<g ref="char:EOLhyphen"/>ty Treaſon</hi> within this Law. A Steward of a Court Leet or Court Baron is not within this Law. A Wife divorc'd for Adultery, is within this Law; although a Queen di<g ref="char:EOLhyphen"/>vorc'd for Adultery be not within this Law, as ye have heard before.</p>
+               <p>Ordinaries are of two ſorts, <hi>Ordinarius loci, Ordina<g ref="char:EOLhyphen"/>rius
+<pb n="64" facs="tcp:102884:34"/>Dioceſ.</hi>
+                  <note place="margin">Ordinarius leci, Ordi<g ref="char:EOLhyphen"/>narius Di<g ref="char:EOLhyphen"/>oceſ.</note> and the Superior Ordinaries they are all with<g ref="char:EOLhyphen"/>in this Law, <hi>Ordinarius loci,</hi> as that of the Dean of <hi>Weſt<g ref="char:EOLhyphen"/>minſter. Ordinarius Dioceſ.</hi> is the Biſhop of the Dioceſs, and the Superior Ordinary is the Archbiſhop; they are all within this Law, in reſpect of Obedience that is due to them. A Child killing his Father or his Mother, he is within this Law, as you heard before, although he he be not named in it: yet there is a majority of Trea<g ref="char:EOLhyphen"/>ſon in it more than that of a Servant, and therefore is with<g ref="char:EOLhyphen"/>in that intent and reaſon of the Law. And ſo it is in
+<pb n="61" facs="tcp:102884:34"/>
+                  <hi>Dalton;</hi> If one command an<g ref="char:EOLhyphen"/>other to kill his Maſter, who doth it, yet it is not Treaſon within this Law, unleſs he be there preſent when the Fact is done,<note place="margin">40 <hi>Aſſ.</hi> 25.</note> 40 <hi>Aſſ.</hi> 25. If a Wife command a Servant to kill her Husband, and he doth it; it is Treaſon in both within this Law: and ſo it appears that Abettors and Partners are within the firſt Part of this Statute concerning <hi>Petty Treaſons,</hi> although they are not named. If a Servant goes from his Maſter, and then kills him, this is <hi>Petty Trea<g ref="char:EOLhyphen"/>ſon</hi> within this Law; for it ſhall be intended that he had ſuch an intention to kill him
+<pb n="66" facs="tcp:102884:35"/>before he departed out of his Service,<note place="margin">Bro. Tit. Treaſ. <hi>15. 33</hi> Aſſ. <hi>7.</hi>
+                  </note> 33 <hi>Aſſ.</hi> 7. And ſo is a Quarrel in <hi>Weſtminſter-Hall,</hi> the Courts ſitting, and then go out of the <hi>Hall</hi> into the <hi>Pallace-yard,</hi> and then one ſtrikes the other, this is pu<g ref="char:EOLhyphen"/>niſhable with the ſame pu<g ref="char:EOLhyphen"/>niſhment, as if he had ſtruck him in the <hi>Hall;</hi> for the pu<g ref="char:EOLhyphen"/>niſhment ſhall be to the loſs of his hand, and the forfei<g ref="char:EOLhyphen"/>ture of his goods, and per<g ref="char:EOLhyphen"/>petual impriſonment, as it is in <hi>Darcies</hi> Caſe,<note place="margin">1 &amp; 2 <hi>Eliz. Dyer.</hi> 188.</note> in the 1 &amp; 2 of <hi>Eliz. Dyer</hi> 188. But ſome of theſe Offences were Trea<g ref="char:EOLhyphen"/>ſon at the Common Law, as the Son killing of the Father, 21 <hi>E.</hi> 3.17.<note place="margin">21 <hi>E.</hi> 3.17.</note> and of a Maid-ſervant
+<pb n="67" facs="tcp:102884:35"/>killing her Miſtreſs, 21 <hi>Aſſ.</hi> 30.<note place="margin">21 <hi>Aſſ.</hi> 30.</note> If a Servant kill his Miſtreſs, this is <hi>Petty Trea<g ref="char:EOLhyphen"/>ſon</hi> within this Law, and yet ſhe is not named, but is to be intended upon the ſame rea<g ref="char:EOLhyphen"/>ſon with his Maſter, and the Obedience is due to the one as well as the other,<note place="margin">19 <hi>H.</hi> 6.37.</note> 19 <hi>H.</hi> 6.37</p>
+               <p>Treaſon ought to be fully proved, as it appears by the words of the Statute, and that is to be by two Witneſſes, for the proving of every Trea<g ref="char:EOLhyphen"/>ſon. And the Statute of 1 <hi>E.</hi>
+                  <note place="margin">1 <hi>E.</hi> 6.</note>6. is not repealed, as to this Point, by the Statute of <hi>Phil.</hi> and <hi>Mar.</hi> but only the Trials in the Counties, and not con<g ref="char:EOLhyphen"/>cerning Witneſſes, as by that
+<pb n="68" facs="tcp:102884:36"/>Statute more at large appears. And in the 14 of <hi>Eliz.</hi> in the Lord <hi>Lumley</hi>'s Caſe,<note place="margin">
+                     <hi>14</hi> Eliz. Lumley's <hi>Caſe.</hi>
+                  </note> it was agreed; that the Statute 1 <hi>E</hi> 6. was not reverſed by the old Statute. The Tryal of Lords of Parliament ought to be <hi>per Pares;</hi> but in ſome Caſes he ſhall not have his Tryal <hi>per Pares,</hi>
+                  <note place="margin">
+                     <hi>13</hi> H. <hi>8.11, 12.</hi> Bro. Tit. Treaſ. <hi>29, 33.</hi>
+                  </note> as in an Appeal, but in an Indictment he ſhall, and the Indictment ſhall be received into Parliament, be<g ref="char:EOLhyphen"/>cauſe an Indictment is the Kings Suit; and the Statute of <hi>Magna Charta</hi> is <hi>nec fuper eum ibimus, nec ſuper eum mit<g ref="char:EOLhyphen"/>timus,</hi> and this is to be inten<g ref="char:EOLhyphen"/>ded in the Kings ſuit,<note place="margin">10 <hi>E.</hi> 4. <hi>b.</hi>
+                  </note> 10 <hi>E.</hi> 4. <hi>b.</hi>
+               </p>
+               <pb n="69" facs="tcp:102884:36"/>
+               <p>But a Lord may refuſe his Tryal <hi>per Pares,</hi> if he will, as it was adjudged 1 <hi>Phil.</hi> &amp; <hi>Mar. Bro.</hi> in the L. <hi>Gray</hi>'s Caſe;<note place="margin">
+                     <hi>1</hi> Phil. &amp; Mar. Bro. <hi>Lord</hi> Grays <hi>Caſe 13</hi> Jac.</note> but in the Lord of <hi>Caſtlehaven's</hi> Caſe it was held the contrary, <hi>If a man be kill'd in Rebelli<g ref="char:EOLhyphen"/>on, he ſhall forfeit his Lands, and is a Traytor: but there ought to be an Inquiſition taken of him, and that ſhall be a ſuf<g ref="char:EOLhyphen"/>ficient Tryal.</hi> As the Caſe in 13 <hi>Jac. Br.</hi> If a man do caſt himſelf into the Water, and never is found after; yet if it be preſented by the Juſtice of Peace, this is ſufficient to make him forfeit his Goods.</p>
+               <p>As for thoſe Treaſons which are not here declared, the
+<pb n="70" facs="tcp:102884:37"/>Judges Authority takes In<g ref="char:EOLhyphen"/>dictments of them, but they ought not to be proceeded a<g ref="char:EOLhyphen"/>gainſt to Judgment; for no<g ref="char:EOLhyphen"/>thing is to be done in point of Judgement in ſuch a Caſe, till it be adjudged and de<g ref="char:EOLhyphen"/>clared in Parliament. And all other <hi>Treaſons</hi> that are not here declared, ought to be <hi>Fe<g ref="char:EOLhyphen"/>lonies</hi> at the leaſt, becauſe <hi>Fe<g ref="char:EOLhyphen"/>lonies</hi> were made <hi>Treaſons</hi> be<g ref="char:EOLhyphen"/>fore the Stattute; and becauſe the words of the Statute are, that it ought to be <hi>Treaſon</hi> or <hi>Felony:</hi> but if it be but once declared in Parliament, un<g ref="char:EOLhyphen"/>leſs there be a <hi>Proviſo</hi> that the Judges ſhall not proceed up<g ref="char:EOLhyphen"/>on the like Caſes, they may
+<pb n="71" facs="tcp:102884:37"/>afterwards proceed by force of this Statute.</p>
+               <p>There are <hi>Treaſons</hi> at the Common Law, notwithſtand<g ref="char:EOLhyphen"/>ing the Stat. of 1 <hi>Mar.</hi> for that did take away thoſe <hi>Treaſons,</hi> and Declarations of <hi>Treaſons</hi> that were made in Parliaments from the time of our Statute, to 1 <hi>Mar.</hi> but doth not take away the declarative Power in our Statute mentioned, nor the Common Law, but they do remain ſtill as before.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:102884:38"/>
+            <pb n="73" facs="tcp:102884:38"/>
+            <head>CASES OF TREASON.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>WHERE a man doth com<g ref="char:EOLhyphen"/>paſs or imagine the Death of the King, the King's Wife, the King's eldeſt Son, and Heir apparent, if it appear by any overt act, it is Treaſon.</p>
+               <p>Where a man doth violate the King's Wife, the King's eldeſt Daughtter, unmarried, the Wife
+<pb n="74" facs="tcp:102884:39"/>of the King's eldeſt Son, and Heir apparent, it is Treaſon.</p>
+               <p>Where a man doth levie War againſt the King in the Realm, it is Treaſon.</p>
+               <p>Where a man is adherent to the King's Enemies, giving them aid and comfort, it is Treaſon.</p>
+               <p>Where a man counterfeiteth the King's Great Seal, Privy Signet, Sign Manual, it is Treaſon: like<g ref="char:EOLhyphen"/>wiſe his Money.</p>
+               <p>Where a man bringeth into this Realm falſe money, counterfeited to the likeneſs of Engliſh, with intent to merchandiſe or make payment thereof, and knowing it to be falſe money, it is Treaſon.</p>
+               <p>Where a man counterfeiteth any Coyn current in payment within this Realm, it is Treaſon.</p>
+               <pb n="75" facs="tcp:102884:39"/>
+               <p>Where a man doth bring in any money, being current within the Realm, the ſame being falſe and counterfeit, with intent to utter it, and knowing the ſame to be falſe, it is Treaſon.</p>
+               <p>Where a man doth clip, waſte, round, or file any of the King's money, or any Foreign Coyn, cur<g ref="char:EOLhyphen"/>rent by Proclamation, for gain<g ref="char:EOLhyphen"/>ſake, it is Treaſon.</p>
+               <p>Where a man doth any way im<g ref="char:EOLhyphen"/>pair, diminiſh, falſifie, skale, or lighten money, current by Procla<g ref="char:EOLhyphen"/>mation, it is Treaſon.</p>
+               <p>Where a man killeth the Chan<g ref="char:EOLhyphen"/>cellor, the Treaſurer, the King's Ju<g ref="char:EOLhyphen"/>ſtices in <hi>Eire,</hi> the King's Juſtices of Aſsiſes, the Juſtices of <hi>Oyer</hi> and <hi>Terminer,</hi> being in their ſeveral Pla<g ref="char:EOLhyphen"/>ces and doing their Offices, it is Treaſon.</p>
+               <pb n="76" facs="tcp:102884:40"/>
+               <p>Where a man procureth or con<g ref="char:EOLhyphen"/>ſenteth to Treaſon, it is Treaſon.</p>
+               <p>Where a man doth perſuade or withdraw any of the Kings Sub<g ref="char:EOLhyphen"/>jects from his obedience, or from the Religion by his Majeſty eſtabliſhed, with intent to withdraw any from the Kings obedience, it is Treaſon.</p>
+               <p>Where a man is abſolved, re<g ref="char:EOLhyphen"/>conciled, or withdrawn from his obedience to the King, or promi<g ref="char:EOLhyphen"/>ſeth obedience to any Foreign Power, it is Treaſon.</p>
+               <p>Where any Jeſuit, or any other Prieſt, ordained ſince the firſt year of the Reign of Qu. <hi>Elizabeth,</hi> ſhall come into, or remain in any part of this Realm, it is Treaſon.</p>
+               <p>Where any Perſon, being brought up in a Colledge of Juſuits, or Se<g ref="char:EOLhyphen"/>minaries, ſhall not return within
+<pb n="77" facs="tcp:102884:40"/>ſix months after Proclamation made, and within two dayes after his return, ſubmit himſelf to take the Oath of Supremacy; if other<g ref="char:EOLhyphen"/>wiſe he do return, and not within ſix months after Proclamation made, it is Treaſon.</p>
+               <p>Where a man, committed for Treaſon, doth voluntarily break Priſon, it is Treaſon.</p>
+               <p>Where a Jaylor doth voluntarily permit a man committed for Trea<g ref="char:EOLhyphen"/>ſon, to eſcape, it is Treaſon.</p>
+               <p>Where a man relieveth or com<g ref="char:EOLhyphen"/>forteth a Traitor, and knoweth of the Offence, it is Treaſon.</p>
+               <p>Where a man doth affirm or maintain any Authority of Juriſdi<g ref="char:EOLhyphen"/>ction Spiritual, or doth put in ure or execute any thing for the ad<g ref="char:EOLhyphen"/>vancement of ſetting forth there<g ref="char:EOLhyphen"/>of,
+<pb n="78" facs="tcp:102884:41"/>the third time, it is Treaſon.</p>
+               <p>VVhere a man refuſeth to take the Oath of Supremacy, being ten<g ref="char:EOLhyphen"/>dred by the Biſhop of the Dioceſe, if he be any Eccleſiaſtical Perſon; or by Commiſſion out of the Chan<g ref="char:EOLhyphen"/>cery, if he be a temporal Perſon; ſuch Offence the ſecond time is Treaſon.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> The Puniſhment, Tryal, and Pro<g ref="char:EOLhyphen"/>ceeding in Caſes of Treaſon.</head>
+               <p>IN Treaſon, the Corporal Puniſh<g ref="char:EOLhyphen"/>ment is, by drawing on an hurdle from the place of the Priſon to the place of Execution, by hanging and being cut down alive, bowel<g ref="char:EOLhyphen"/>ling, and quartering, and in VVo<g ref="char:EOLhyphen"/>men burning.</p>
+               <pb n="79" facs="tcp:102884:41"/>
+               <p>In Treaſon there enſueth a cor<g ref="char:EOLhyphen"/>ruption of blood in the Line aſcen<g ref="char:EOLhyphen"/>ding and deſcending.</p>
+               <p>In Treaſon, Lands and Goods are forfeited, and Inheritance, as well intailed as Fee-ſimple, and the profits of Eſtates for Life.</p>
+               <p>In Treaſon, the Eſcheats go to the King, and not to the Lord of the Fee.</p>
+               <p>In Treaſon, the Land forfeited ſhall be in the Kings actual poſſeſ<g ref="char:EOLhyphen"/>ſion, without Office.</p>
+               <p>In Treaſon there be no Acceſſa<g ref="char:EOLhyphen"/>ries, but all are Principals.</p>
+               <p>In Treaſon no Sanctuary, nor benefit of Clergy, or peremptory Challenge is allowed.</p>
+               <p>In Treaſon, if the Party ſtand mute, yet nevertheleſs Judgment and Attainder ſhall proceed all one as upon Verdict.</p>
+               <pb n="80" facs="tcp:102884:42"/>
+               <p>In Treaſon no Counſel is to be allowed, nor Bail permitted to the Party.</p>
+               <p>In Treaſon no Witneſſes ſhall be received upon Oath for the Parties Juſtification.</p>
+               <p>In Treaſon, if the Fact be com<g ref="char:EOLhyphen"/>mitted beyond the Seas, yet it may be tryed in any County where the King will award his Commiſſion.</p>
+               <p>In Treaſon, if the Party be <hi>non ſanae memoriae,</hi> yet if he had for<g ref="char:EOLhyphen"/>merly confeſſed it before the Kings Council, and that it be certified that he was of good Memory at the time of his Examination and Confeſſion, the Court may proceed to do Judgment without calling or arraigning the Party.</p>
+               <p>In Treaſon, the death of the Par<g ref="char:EOLhyphen"/>ty before Conviction, diſchargeth
+<pb n="81" facs="tcp:102884:42"/>all Proceedings and Forfeitures.</p>
+               <p>In Treaſon, if the Parties be once acquitted, he ſhould not be brought in queſtion again for the ſame Fact.</p>
+               <p>In Treaſon, no new Caſe, not expreſſed in the Statute of 25 <hi>E.</hi> 3. or made Treaſon by any ſpecial Sta<g ref="char:EOLhyphen"/>tute ſince, ought to be judged Trea<g ref="char:EOLhyphen"/>ſon, without conſulting with the Parliament.</p>
+               <p>In Treaſon, there can be no Proſecution but at the King's ſuit, and the Kings Pardon diſchargeth.</p>
+               <p>In Treaſon, the King cannot grant over to any Subject Power and Authority to pardon it.</p>
+               <p>In Treaſon, a Trial of a Peer of the Kingdom is to be by ſpecial Commiſſion before the Lord high Steward, and thoſe that paſs upon him to be none but Peers: The
+<pb n="82" facs="tcp:102884:43"/>Proceeding is with great Solemni<g ref="char:EOLhyphen"/>ty, the Lord Steward ſitting under a cloth of Eſtate, with a white rod of Juſtice in his hand, and the Peers may conferr together, but are not any ways ſhut up; and are deman<g ref="char:EOLhyphen"/>ded by the Lord Steward their Voi<g ref="char:EOLhyphen"/>ces one by one, and the plurality of Voices carries it.</p>
+               <p>In Treaſon, it hath been an anci<g ref="char:EOLhyphen"/>ent Uſe and Favour from the Kings of this Realm, to pardon the Exe<g ref="char:EOLhyphen"/>cution of hanging, drawing, and quartering; and to make Warrant for their beheading.</p>
+               <p>The Proceeding in caſe of Trea<g ref="char:EOLhyphen"/>ſon, with a common Subject, is in the Kings Bench, or by Commiſſion of <hi>Oyer</hi> and <hi>Terminer.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="83" facs="tcp:102884:43"/>
+               <head>
+                  <hi>CHAP. III.</hi> Caſes of Miſpriſion of Treaſon.</head>
+               <p>WHere a man concealeth high Treaſon only, without any conſorting or abetting, it is miſpri<g ref="char:EOLhyphen"/>ſion of Treaſon.</p>
+               <p>Where a man counterfeiteth any Foreign Coyn of Gold or Silver, not current in this Realm, it is miſpri<g ref="char:EOLhyphen"/>ſion of Treaſon.</p>
+               <p>Where a man fixes an old Seal to a new Patent, it is miſpriſion of Treaſon.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IIII.</hi> The Puniſhment, Tryal and Proceed<g ref="char:EOLhyphen"/>ing in caſes of miſpriſion of Treaſon.</head>
+               <p>THE Puniſhment of Miſpriſion of Treaſon, is by perpetual
+<pb n="84" facs="tcp:102884:44"/>Impriſonment, loſs of the Iſſues and Profits of their Lands during Life, and loſs of goods and Chattels.</p>
+               <p>The Proceeding and Trial is, as in caſes of High Treaſon.</p>
+               <p>In miſpriſion of Treaſon Bail is not admitted.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Caſes of Petty Treaſon.</head>
+               <p>WHere a Servant killeth his Ma<g ref="char:EOLhyphen"/>ſter, the Wife the Husband, the Spritual man his Prelate, to whom he is ſubordinate, and ow<g ref="char:EOLhyphen"/>eth Faith and Obedience, it is pet<g ref="char:EOLhyphen"/>tie Treaſon.</p>
+               <p>Where a Son killeth the Father or Mother, it hath been queſtioned whether it be petie Treaſon, and the
+<pb n="85" facs="tcp:102884:44"/>late experience and opinion ſeem<g ref="char:EOLhyphen"/>eth to ſway to the contrary, tho againſt Law and Reaſon in my judgment.</p>
+               <p>Where a Servant killeth his or her Maſter or Miſtreſs, after they are out of Service, it is petie Trea<g ref="char:EOLhyphen"/>ſon.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> The Puniſhment, Tryal and Proceed<g ref="char:EOLhyphen"/>ings in caſes of Petie Treaſon.</head>
+               <p>IN Petie Treaſon, the Corporal Puniſhment is by drawing on an hurdle, and hanging, and in a Woman burning.</p>
+               <p>In petie Treaſon, the Forfei<g ref="char:EOLhyphen"/>ture is the ſame with the Caſe of Fe<g ref="char:EOLhyphen"/>lony.</p>
+               <pb n="86" facs="tcp:102884:45"/>
+               <p>In petie Treaſon, all Acceſſaries are but in caſe of Felony.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>
+                  <hi>CHAP. VII.</hi> Caſes of Felony.</head>
+               <p>WHere a man committeth Mur<g ref="char:EOLhyphen"/>der or Homicide, of Malice prepenſed, it is Felony.</p>
+               <p>Where a man committeth Mur<g ref="char:EOLhyphen"/>der (that is) breaking of an Houſe with an intent to commit Felony, it is Felony.</p>
+               <p>Where a man committeth man<g ref="char:EOLhyphen"/>ſlaughter, that is Homicide of ſud<g ref="char:EOLhyphen"/>den heat, and not of Malice pre<g ref="char:EOLhyphen"/>penſed, it is Felony.</p>
+               <p>Where a man rideth armed with a felonious intent, it is Felony.</p>
+               <p>VVhere a man doth maliciouſly
+<pb n="87" facs="tcp:102884:45"/>and feloniouſly burn any man's houſe, it is Felony.</p>
+               <p>VVhere a man doth maliciouſly, <hi>&amp;c.</hi> burn corn upon the ground, or in ſtack, it is Felony.</p>
+               <p>VVhere a man doth maliciouſly cut out another man's Tongue, or put out his Eyes, it is Felony.</p>
+               <p>VVhere a man robbeth or ſteal<g ref="char:EOLhyphen"/>eth, <hi>viz.</hi> taketh away another man's Goods, above the value of 12 <hi>d.</hi> out of his poſſeſſion, with intent to conceal it, it is Felony.</p>
+               <p>VVhere a man imbezelleth and withdraweth any of the King's Re<g ref="char:EOLhyphen"/>cords at <hi>Weſtminſter,</hi> whereby a Judgment is reverſed, it is Fe<g ref="char:EOLhyphen"/>lony.</p>
+               <p>VVhere a man, having the cuſto<g ref="char:EOLhyphen"/>dy of the King's Armour, Munition, or other Abiliments of VVar, doth
+<pb n="88" facs="tcp:102884:46"/>maliciouſly convey away the ſame, it is Felony, if it be to the value of twenty ſhillings.</p>
+               <p>VVhere a Servant hath Goods of his Maſters delivered unto him, and goeth away with them, it is Felony.</p>
+               <p>VVhere a man conjures, or in<g ref="char:EOLhyphen"/>vokes wicked Spirits, it is Felony.</p>
+               <p>VVhere a man doth uſe or pra<g ref="char:EOLhyphen"/>ctiſe VVitchcraft, whereby any Per<g ref="char:EOLhyphen"/>ſon ſhall be killed, waſted, or la<g ref="char:EOLhyphen"/>med, it is Felony.</p>
+               <p>VVhere a man practiſeth any VVitchcraft, to diſcover Treaſure hid, or to diſcover ſtollen goods, or to provoke unlawful Love, or to impair or hurt any mans Cattel or Goods, the ſecond time, having been once before convicted of like offence, it is Felony.</p>
+               <pb n="89" facs="tcp:102884:46"/>
+               <p>VVhere a man uſeth the craft of multiplication of Gold or Silver, it is Felony.</p>
+               <p>VVhere a man receiveth a Semi<g ref="char:EOLhyphen"/>nary Prieſt, knowing him to be ſuch a Prieſt, it is Felony.</p>
+               <p>VVhere a man taketh away a VVoman againſt her VVill, not claiming her as his VVard or Bond<g ref="char:EOLhyphen"/>woman, it is Felony.</p>
+               <p>VVhere a man or woman marri<g ref="char:EOLhyphen"/>eth again, his or her former Hus<g ref="char:EOLhyphen"/>band or VVife being alive, it is Fe<g ref="char:EOLhyphen"/>lony.</p>
+               <p>VVhere a man committeth Bug<g ref="char:EOLhyphen"/>gery with man or Beaſt, it is Felo<g ref="char:EOLhyphen"/>ny.</p>
+               <p>VVhere any Perſons, above the number of twelve, ſhall aſſemble themſelves with intent to put down Incloſures, or bring down prices
+<pb n="90" facs="tcp:102884:47"/>of Victuals, <hi>&amp;c.</hi> and do not depart after Proclamation, it is Felony.</p>
+               <p>Where a man ſhall uſe any words to encourage or draw any People together, <hi>ut ſupra,</hi> and they do aſ<g ref="char:EOLhyphen"/>ſemble accordingly, and do not de<g ref="char:EOLhyphen"/>part after Proclamation, it is Fe<g ref="char:EOLhyphen"/>lony.</p>
+               <p>Where a man, being the King's ſworn Servant, conſpireth to mur<g ref="char:EOLhyphen"/>der any Lord of the Realm, or any Privy Councellor, it is Felony.</p>
+               <p>VVhere a Souldier hath taken a<g ref="char:EOLhyphen"/>ny parcel of the King's wages, and departeth without Licence, it is Felony.</p>
+               <p>Where a Recuſant, which is a Seducer, and Perſwader, and Enti<g ref="char:EOLhyphen"/>cer of the King's Subjects againſt the King's authority in Eccleſiaſti<g ref="char:EOLhyphen"/>cal Cauſes, or a perſwader of Con<g ref="char:EOLhyphen"/>venticles,
+<pb n="91" facs="tcp:102884:47"/>or ſhall refuſe to abjure the Realm, it is Felony.</p>
+               <p>Where Vagabonds be found in the Realm, calling themſelves <hi>Egy<g ref="char:EOLhyphen"/>ptians,</hi> it is Felony.</p>
+               <p>Where a Purveyor doth take without Warrant, or otherwiſe doth offend againſt certain ſpecial Laws, it is Felony.</p>
+               <p>Where a man hunts in any Fo<g ref="char:EOLhyphen"/>reſt, Park, or Warren, by night or by day, with Vizard or other diſ<g ref="char:EOLhyphen"/>guiſements, and is examined there<g ref="char:EOLhyphen"/>of, and concealeth his Fact, it is Felony.</p>
+               <p>Where one ſtealeth certain kind of Hawks, it is Felony.</p>
+               <p>Where a man committeth Forge<g ref="char:EOLhyphen"/>ry the ſecond time, having been once before convicted, it is Felony.</p>
+               <p>Where a man tranſporteth Rams,
+<pb n="92" facs="tcp:102884:48"/>or other ſheep out of the Kings Do<g ref="char:EOLhyphen"/>minions, the 2<hi rend="sup">d</hi> time, it is Felony.</p>
+               <p>VVhere a man being impriſoned for felony, breaks Priſon, it is Felony.</p>
+               <p>VVhere a man procureth, or con<g ref="char:EOLhyphen"/>ſenteth to Felony to be done, it is Felony, as to make him acceſſary before the Fact.</p>
+               <p>Where a man receiveth or reliev<g ref="char:EOLhyphen"/>eth a Felon, it is Felony, as to make him acceſſary after the Fact.</p>
+               <p>VVhere a Woman, by the con<g ref="char:EOLhyphen"/>ſtraint of her Husband, in his pre<g ref="char:EOLhyphen"/>ſence, joyneth with him in commit<g ref="char:EOLhyphen"/>ting of Felony, it is not Felony in her, neither as Principal nor as Acceſſary.</p>
+               <p>Homicide, or the killing of a man, is to be conſidered in four kinds.</p>
+               <list>
+                  <item>
+                     <hi>Chance-medley.</hi>
+                  </item>
+                  <item>
+                     <hi>Se defendendo.</hi>
+                  </item>
+                  <item>
+                     <hi>Man-ſlaughter.</hi>
+                  </item>
+                  <item>
+                     <hi>Wilful Murder.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="93" facs="tcp:102884:48"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> The Puniſhment, Tryal, and Proceed<g ref="char:EOLhyphen"/>ings in Caſes of Felony.</head>
+               <p>IN Felony, the corporal Puniſh<g ref="char:EOLhyphen"/>ment is hanging, and it is doubt<g ref="char:EOLhyphen"/>ful whether the King may turn it into beheading, in caſe of a Peer, or other Perſon of Dignity, becauſe in Treaſon, the ſtriking off the Head is part of the Judgment, and ſo the King pardoneth the reſt: but in Felony, it is no part of the Judgment, and the King can<g ref="char:EOLhyphen"/>not alter the execution of Law; yet Preſidents have been both wayes: If it be upon Indictment, the King may, but upon an Appeal he cannot.</p>
+               <pb n="94" facs="tcp:102884:49"/>
+               <p>In Felony there followeth cor<g ref="char:EOLhyphen"/>ruption of Blood, except it be in caſes made Felony by ſpecial Sta<g ref="char:EOLhyphen"/>tutes, with a Proviſo, that there ſhall be no corruption of blood.</p>
+               <p>In Felony, Lands in Fee ſimple, and goods and Chattels are forfeit<g ref="char:EOLhyphen"/>ed, and the profits of Eſtates for Life are likewiſe forfeited, but not Lands intailed: and by ſome Cu<g ref="char:EOLhyphen"/>ſtoms, Lands in ſee ſimple are not ſo forfeited;
+<q>
+                     <l>The Father to the Bough,</l>
+                     <l>The Son to the Plough,</l>
+                  </q> as in <hi>Gavel-kind</hi> in <hi>Kent,</hi> and o<g ref="char:EOLhyphen"/>ther places.</p>
+               <p>In Felony, the Eſcheats go to the Lord of the Fee, and not to the King, except he be Lord: But pro<g ref="char:EOLhyphen"/>fits for the Eſtates for Lives, or in Tail, during the Life of Tenant in
+<pb n="95" facs="tcp:102884:49"/>Tail, go to the King; And the King hath likewiſe <hi>annum, &amp; diem, &amp; vaſtum.</hi>
+               </p>
+               <p>In Felony, Lands are not in the King, before Office, nor in the Lord, before Entry or Recovery in a Writ of Eſcheat, or Death of the Party attainted.</p>
+               <p>In Felony, there can be no pro<g ref="char:EOLhyphen"/>ceeding with the Acceſſary, before there be a proceeding with the Prin<g ref="char:EOLhyphen"/>cipal: If he dye, or plead his Par<g ref="char:EOLhyphen"/>don, or have his Clergy before At<g ref="char:EOLhyphen"/>tainder, the Acceſſary can never be dealt with.</p>
+               <p>In Felony, if the Party ſtand mute, and will not put himſelf up<g ref="char:EOLhyphen"/>on Tryal, or challenge perempto<g ref="char:EOLhyphen"/>rily above that the Law allows, he ſhall have Judgment, not of hanging, but of penance, of preſ<g ref="char:EOLhyphen"/>ſing
+<pb n="96" facs="tcp:102884:50"/>to death; but there he ſaves his Lands, and forfeits only his Goods.</p>
+               <p>In Felony, at the Common Law, the benefit of Clergy or Sanctuary was allowed; but now by Stat. it is taken away in moſt caſes.</p>
+               <p>In Felony, Bail may be admitted where the Fact is not notorious, and the Perſon not of ill name.</p>
+               <p>In Felony, no Councel is to be allowed to the Party, no more than in Treaſon.</p>
+               <p>In Felony, if the fact be commit<g ref="char:EOLhyphen"/>ted beyond the Seas, or upon the Seas, <hi>ſuper altum mare,</hi> there is no Tryal at all in one caſe, nor by courſe of Jury in the other, but by the Ju<g ref="char:EOLhyphen"/>riſdiction of the Admiralty.</p>
+               <p>In Felony, no witneſs ſhall be re<g ref="char:EOLhyphen"/>ceived upon Oath for the Parties Ju<g ref="char:EOLhyphen"/>ſtification, no more than in Treaſon.</p>
+               <pb n="97" facs="tcp:102884:50"/>
+               <p>In felony, if the Party be <hi>non ſanae memoriae,</hi> although it be after the fact, he cannot be tryed nor adjudg<g ref="char:EOLhyphen"/>ed, except it be in courſe of Out<g ref="char:EOLhyphen"/>lawry, and that is alſo erroneous.</p>
+               <p>In felony, the Death of the Party before Conviction, diſchar<g ref="char:EOLhyphen"/>geth all Proceedings and Forfei<g ref="char:EOLhyphen"/>tures.</p>
+               <p>In felony, if the Party be once acquit, or in peril of Judgment of Life, lawfully he ſhall never be brought in queſtion again for the ſame fact.</p>
+               <p>In felony, the proſecution may be either at the King's Suit, or by way of Appeal; the Defend<g ref="char:EOLhyphen"/>ent ſhall have his courſe, and pro<g ref="char:EOLhyphen"/>duce Witneſſes upon Oath, as in Civil Cauſes.</p>
+               <p>In Felony, the King may grant
+<pb n="98" facs="tcp:102884:51"/>
+                  <hi>hault Juſtice</hi> to a Subject, with the Regality of Power to pardon it.</p>
+               <p>In Felony, the Tryal of Peers is all one, as in caſe of Treaſon.</p>
+               <p>In Felony, the Proceedings are in the King's Bench, or before Com<g ref="char:EOLhyphen"/>miſſioners of <hi>Oyer</hi> and <hi>Terminer,</hi> or of Goal-delivery, and, in ſome caſe, before Juſtices of the Peace.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>CHAP. IX.</hi> Caſes of Felony, <hi>de ſe,</hi> with the Pu<g ref="char:EOLhyphen"/>niſhment, Tryal, and Proceedings.</head>
+               <p>IN the Civil Law, and other Laws, they make a difference of Caſes of Felony <hi>de ſe;</hi> for where a man is called in queſtion upon any ca<g ref="char:EOLhyphen"/>pital Crime, and killeth himſelf to prevent the Law, there they give
+<pb n="99" facs="tcp:102884:51"/>the Judgment in all points of for<g ref="char:EOLhyphen"/>feiture, as if they had been attaint<g ref="char:EOLhyphen"/>ed in their Life-time: And, on the other ſide, where a man killeth him<g ref="char:EOLhyphen"/>ſelf upon impatience of Sickneſs, or the like, they do not puniſh it at all: but the Law of <hi>England</hi> ta<g ref="char:EOLhyphen"/>keth it all in one degree, and pu<g ref="char:EOLhyphen"/>niſheth onely with loſs of Goods, to be forfeited to the King, who ge<g ref="char:EOLhyphen"/>nerally grants them to his Almo<g ref="char:EOLhyphen"/>ner, where they be not ſormerly granted unto ſpecial Liberties.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>
+                  <hi>CHAP. X.</hi> Caſes of Premunire.</head>
+               <p>WHere a man purchaſeth, or accepteth any proviſion, that is, collation of any Spiritual
+<pb n="100" facs="tcp:102884:52"/>Benefice or Living from the See of <hi>Rome,</hi> it is Premunire.</p>
+               <p>Where a man ſhall purchaſe any Proceſs to draw any People of the Kings Allegiance out of the Realm, in plea whereof the cogni<g ref="char:EOLhyphen"/>zance pertains to the Kings Court, and cometh not in Perſon to an<g ref="char:EOLhyphen"/>ſwer his contempt in that behalf, before the King and his Coun<g ref="char:EOLhyphen"/>cil, or in his Chancery, it is Pre<g ref="char:EOLhyphen"/>munire.</p>
+               <p>Where a man doth ſue in any Court which is not the King's Court, to defeat or impeach any Judgment given in the Kings Court, and doth not appear to anſwer his Contempt, it is Premunire.</p>
+               <p>Where a man doth purchaſe, or purſue in the Court of <hi>Rome</hi> or elſewhere, any Proceſs, Sentence
+<pb n="101" facs="tcp:102884:52"/>of Excommunication, Bull, or In<g ref="char:EOLhyphen"/>ſtrument, or any other thing which toucheth the King in his Regality, or his Realm, in prejudice, it is Premunire.</p>
+               <p>Where a man doth affirm or maintain any Foreign kind of Ju<g ref="char:EOLhyphen"/>riſdiction Spiritual, or doth put in ure or execution any thing for the advancement or ſetting forth there<g ref="char:EOLhyphen"/>of; ſuch Offence the ſecond time committed, is Premunire.</p>
+               <p>Where a man refuſeth to take the Oath of Supremacy, being tendred by the Biſhop of the Dioceſe, if it be an Eccleſiaſtical Perſon; or by a Commiſſion out of the Chancery, if he be a Temporal Perſon, it is premunire.</p>
+               <p>Where a Dean and Chapter of any Church upon <hi>the Conge de
+<pb n="102" facs="tcp:102884:53"/>Lier</hi> of an Archbiſhop or Biſhop, doth refuſe to elect any ſuch Arch<g ref="char:EOLhyphen"/>biſhop or Biſhop, as is nominated unto them in the Kings Letters miſ<g ref="char:EOLhyphen"/>ſive, it is Premunire.</p>
+               <p>Where a man doth contribute, or give relief to any Jeſuit or Se<g ref="char:EOLhyphen"/>minary Prieſts, or to any Perſon brought up therein, and called home, and not returning, it is caſe of Premunire.</p>
+               <p>Where a man is a Broker of an uſurious contract above ten in the hundred, it is Premunire.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>
+                  <hi>CHAP. XI.</hi> The Puniſhment, Tryal, and Proceed<g ref="char:EOLhyphen"/>ing in Caſes of Premunire.</head>
+               <p>THe Puniſhment is by Impri<g ref="char:EOLhyphen"/>ſonment during Life, forfei<g ref="char:EOLhyphen"/>ture
+<pb n="103" facs="tcp:102884:53"/>of Goods, forfeiture of Lands in fee ſimple, &amp; forfeiture of the pro<g ref="char:EOLhyphen"/>fits of Lands Intailed, or for Life.</p>
+               <p>The Trial and Proceeding is as in caſes of Miſpriſion of Treaſon, and the Tryal is by Peers, where a Peer of the Realm is the Offender.</p>
+               <p>Striking any man in the face of the King's Courts, is forfeiture of Lands, perpetual Impriſonment, and loſs of that hand.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>
+                  <hi>CHAP. XII.</hi> Caſes of Abjuration and Exile, and the Proceedings therein.</head>
+               <p>WHere a man committeth any Felony, for the which at this day he may have priviledge of San<g ref="char:EOLhyphen"/>ctuary, and confeſſeth the Felony
+<pb n="104" facs="tcp:102884:54"/>before the Coroner, he ſhall abjure the Liberty of the Real, and chuſe his Sanctuary; and if he commit any new offence, or leave his San<g ref="char:EOLhyphen"/>ctuary, he ſhall loſe the Priviledge thereof, and ſuffer as if he had not taken Sanctuary.</p>
+               <p>Where a man not coming to the Church, and being a Popiſh Recu<g ref="char:EOLhyphen"/>ſant, doth perſwade any the Kings Subjects to impugn his Majeſties Authority in Cauſes Eccleſiaſtical, or ſhal perſwade any Subject to come to any unlawful Conventicles, and ſhall not after conform him<g ref="char:EOLhyphen"/>ſelf within a time, and make his ſubmiſſion, he ſhall abjure the Realm, and forfeit his Goods and Lands during Life; and if he de<g ref="char:EOLhyphen"/>part not within the time prefixed,
+<pb n="105" facs="tcp:102884:54"/>or return, he ſhall be in the degree of a Felon.</p>
+               <p>Where a man, being a Popiſh Recuſant, and not having Lands to the value of 20 Marks <hi>per annum,</hi> nor goods to the value of 40 <hi>l.</hi> ſhall not repair to his dwelling, or place where he was born, and there con<g ref="char:EOLhyphen"/>fine himſelf within the compaſs of five miles, he ſhall abjure the Realm; and if he return, he ſhall be in caſe of a Felon.</p>
+               <p>Where a man kills the King's Deer in Chaſes or Foreſts, and can find no Sureties after a years Im<g ref="char:EOLhyphen"/>priſonment, he ſhall abjure the Realm.</p>
+               <p>Where a man is a Treſpaſſer in Parks, or in Ponds of fiſh, and af<g ref="char:EOLhyphen"/>ter three years Impriſonment can<g ref="char:EOLhyphen"/>not find Sureties, he ſhall abjure the Realm.</p>
+               <pb n="106" facs="tcp:102884:55"/>
+               <p>Where a man is a Raviſher of any Child, whoſe Marriage belongs to any Perſon, and marrieth the ſaid Child after years of conſent, and is not able to ſatisfie for the Marriage, he ſhall abjure the Realm.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>
+                  <hi>CHAP. XIII.</hi> Caſes of Hereſie, and the Trial and Proceedings therein.</head>
+               <p>THE Declaration of Hereſie, and likewiſe the Proceedings and Judgment upon Hereticks, is, by the Common Laws of this Realm, referred to the Juriſdiction Eccle<g ref="char:EOLhyphen"/>fiaſtical, and the Secular Arm is reached to them by the Common Laws, and not by any Statute for
+<pb n="107" facs="tcp:102884:55"/>execution of them by the Kings Writ <hi>de Haeretico comburendo.</hi>
+               </p>
+            </div>
+            <div n="14" type="chapter">
+               <head>
+                  <hi>CHAP. XIV.</hi> The Kings Prerogative in Parlia<g ref="char:EOLhyphen"/>ment.</head>
+               <p>THE King hath an abſolute ne<g ref="char:EOLhyphen"/>gative Voice to all Bills that paſs the Parliament, ſo as without his Royal Aſſent they have a meer nul<g ref="char:EOLhyphen"/>lity, and not ſo much as <hi>Authoritas praeſcripta,</hi> or <hi>Senatus conſulta</hi> had, notwithſtanding the Interceſſion of Tribunes.</p>
+               <p>The King may ſummon Parlia<g ref="char:EOLhyphen"/>ments, diſſolve them, prorogue them, and adjourn them at his Plea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p>The King may add Voices in the
+<pb n="108" facs="tcp:102884:56"/>Parliament at his Pleaſure, for he may give Priviledge to Borough Towns as many as he will, and may likewiſe call and create Barons at his pleaſure.</p>
+               <p>No man can ſit in Parliament except he take the Oath of Alle<g ref="char:EOLhyphen"/>giance.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>
+                  <hi>CHAP. XV.</hi> The Kings Prerogative in matters of War or Peace.</head>
+               <p>THE King hath power to de<g ref="char:EOLhyphen"/>clare and proclaim War, and to make and conclude Peace and Truce at his pleaſure.</p>
+               <p>The King hath power to make Leagues and Confederacies with Foreign States, more ſtraight and
+<pb n="109" facs="tcp:102884:56"/>leſs ſtraight, and to revoke and diſannull them at his pleaſure.</p>
+               <p>The King hath power to com<g ref="char:EOLhyphen"/>mand the Bodies of his Subjects for the ſervice of his Wars, and to mu<g ref="char:EOLhyphen"/>ſter, train, and levy men, and to tranſport them by Sea or Land at his pleaſure.</p>
+               <p>The King hath power in time of War to execute Marſhal Law, and to appoint all Officers of War at his pleaſure.</p>
+               <p>The King hath power to grant his Letters of Mart and Repriſal for re<g ref="char:EOLhyphen"/>medy to his Subjects upon foreign wrongs at his pleaſure.</p>
+               <p>The King hath power to declare Laws by his Letters Patents for the government of any place conquer<g ref="char:EOLhyphen"/>ed by Arms, at his pleaſure.</p>
+               <p>The King may give Knight-hood,
+<pb n="110" facs="tcp:102884:57"/>and thereby mable any Subject to perform Knights Service at his pleaſure.</p>
+            </div>
+            <div n="16" type="chapter">
+               <head>
+                  <hi>CHAP. XVI.</hi> The Kings Prerogative in matters of Moneys.</head>
+               <p>THE King may alter his Stand<g ref="char:EOLhyphen"/>ard in baſeneſs or fineneſs of his Coyn, at his pleaſure.</p>
+               <p>The King may alter his ſtamp in form at his pleaſure.</p>
+               <p>The King may alter the valua<g ref="char:EOLhyphen"/>tions of his Coyn, and raiſe and fall Moneys at his pleaſure.</p>
+               <p>The King by his Proclamation may make Moneys of his own cur<g ref="char:EOLhyphen"/>rent, or not current, at his plea<g ref="char:EOLhyphen"/>ſure.</p>
+               <pb n="111" facs="tcp:102884:57"/>
+               <p>The King may take or refuſe the Subjects Bullion, and Coyn, more or leſs money.</p>
+               <p>The King by his Proclamation may make Fereign money current, or not current.</p>
+            </div>
+            <div n="17" type="chapter">
+               <head>
+                  <hi>CHAP. XVII.</hi> The Kings Prerogative in matters of Trade and Traffick.</head>
+               <p>THE King may conſtrain the Perſon of any of his Sub<g ref="char:EOLhyphen"/>jects not to go out of the Realm at all.</p>
+               <p>The King may reſtrain any of his Subjects to go out of the Realm into any ſpecial Part fo<g ref="char:EOLhyphen"/>reign.</p>
+               <pb n="112" facs="tcp:102884:58"/>
+               <p>The King may forbid the expor<g ref="char:EOLhyphen"/>tation of any Commodities out of the Realm.</p>
+               <p>The King may forbid the im<g ref="char:EOLhyphen"/>portation of any Commodities into the Realm.</p>
+               <p>The King may ſet a reaſonable Impoſt upon any Foreign Wares that come into the Realm, and ſo of Native Wares that go out of the Realm.</p>
+            </div>
+            <div n="18" type="chapter">
+               <head>
+                  <hi>CHAP. XVIII.</hi> The Kings Prerogative in the Perſons of his Subjects.</head>
+               <p>THE King may create any Cor<g ref="char:EOLhyphen"/>poration or Body Politick, and enable them to purchaſe, and grant, and to ſue, and be ſued, and
+<pb n="113" facs="tcp:102884:58"/>that with ſuch reſtrictions and mo<g ref="char:EOLhyphen"/>difications as he pleaſes.</p>
+               <p>The King may denizen and en<g ref="char:EOLhyphen"/>able any Foreigner for him and his Deſcendents after the Charter, though he cannot naturalize nor enable him to make pedegree from Anceſtors Paramount.</p>
+               <p>The King may enable any at<g ref="char:EOLhyphen"/>tainted Perſon (by his Charter of Pardon) to purchaſe and to purge his Blood for the time to come, though he cannot reſtore his Blood for the time paſt.</p>
+               <p>The King may enable any dead Perſon in Law, as men profeſſed, to take and purchaſe to the King's Benefit.</p>
+            </div>
+            <div n="19" type="chapter">
+               <pb n="114" facs="tcp:102884:59"/>
+               <head>
+                  <hi>CHAP. XIX.</hi> An Anſwer to the Queſtion propoſed by Sir <hi>Alexander Hay</hi> Knight, touching the Office of Conſtables.</head>
+               <p>TO the firſt; Of the Original of the Authority of Conſta<g ref="char:EOLhyphen"/>bles, it may be ſaid, <hi>Caput inter nublia condit,</hi> for the Authority was granted upon the Ancient Laws and Cuſtomes of this Kingdom, practiſed long before the Con<g ref="char:EOLhyphen"/>queſt, and intended and inſtitu<g ref="char:EOLhyphen"/>ted for the conſervation of the Peace, and repreſſing all manner of diſturbance and hurt of the Peo<g ref="char:EOLhyphen"/>ple, and that as well by way of prevention as puniſhment; but yet ſo, as they have no Judicial pow<g ref="char:EOLhyphen"/>er,
+<pb n="115" facs="tcp:102884:59"/>to hear and determine any cauſe, but onely a Miniſterial power, as in the anſwer of the ſeventh Article more at large is ſet down.</p>
+               <p>As for the Office of the High Conſtable, the original of that is yet more obſcure; for though the High Conſtables Authority hath the more ample Circuit, he being over the hundred, and the pety Conſtable over the Village; yet I do not find that the pety Conſta<g ref="char:EOLhyphen"/>ble is ſubordinate to the High Con<g ref="char:EOLhyphen"/>ſtable, or to be ordered or com<g ref="char:EOLhyphen"/>manded by him: and therefore, I doubt, the High Conſtable was not <hi>ab origine,</hi> but that when the buſi<g ref="char:EOLhyphen"/>neſs of the Countrey increaſed, the Authority of the Juſtices of Peace was inlarged by divers Statutes; then, for conveniency ſake, the Of<g ref="char:EOLhyphen"/>fice
+<pb n="116" facs="tcp:102884:60"/>of High Conſtables grew in uſe for the receiving of the Commands and Precepts from the Juſtices of Peace, and diſtributing them to the petie Conſtables; and in token of this, the Election of High Conſta<g ref="char:EOLhyphen"/>bles in moſt parts of the Kingdom is by the appointment of the Juſti<g ref="char:EOLhyphen"/>ces of Peace, whereas the election of the pety Conſtable is by the Peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p>But there be two things unto which the Office of Conſtable hath ſpecial reference, and which of ne<g ref="char:EOLhyphen"/>ceſſity, or at leaſt a kind of congrui<g ref="char:EOLhyphen"/>ty, muſt precede the Juriſdiction of that Office, either the things them<g ref="char:EOLhyphen"/>ſelves, or ſomewhat that hath a ſimi<g ref="char:EOLhyphen"/>litude or analogy towards them.</p>
+               <p n="1">1. The one is the diviſion of the Territory, or groſs of the Shires in<g ref="char:EOLhyphen"/>to
+<pb n="117" facs="tcp:102884:60"/>Hundreds, Villages, and Towns; for the High Conſtable is Officer over the Hundred, and the pety Con<g ref="char:EOLhyphen"/>ſtable is over the Town or Village.</p>
+               <p n="2">2. The other is the Court Leet, unto which the Conſtable is a pro<g ref="char:EOLhyphen"/>per Attendant and Miniſter, for there the Conſtables are choſen by the Jury, there they are ſworn, and there that part of their Office which concerneth Information, is princi<g ref="char:EOLhyphen"/>pally to be performed; for the Ju<g ref="char:EOLhyphen"/>ry is to preſent Offences, and the Offenders are chiefly to take light from the Conſtables, of all matters of Diſturbance and Nuſance of the People, which they (in reſpect of their Office) are preſumed to have beſt and moſt particular know<g ref="char:EOLhyphen"/>ledge of.</p>
+            </div>
+            <div n="20" type="chapter">
+               <pb n="118" facs="tcp:102884:61"/>
+               <head>
+                  <hi>CHAP XX.</hi> Three ends of the Inſtitution of the Court Leet.</head>
+               <p n="1">1. THe firſt end of the Inſtituti<g ref="char:EOLhyphen"/>on of the Court Leet is, To take the Oath of Allegiance of all Males above the Age of twelve years.</p>
+               <p n="2">2. The ſecond, To enquire of all offences againſt the peace; and for thoſe that are againſt the Crown and Peace both, to enquire of onely, and certifie to the Juſti<g ref="char:EOLhyphen"/>ces of Goal Delivery; but thoſe that are againſt the peace ſimply, they are to enquire and puniſh.</p>
+               <p n="3">3. The third is, To enquire of, puniſh, and remove all publick
+<pb n="119" facs="tcp:102884:61"/>Nuſances and grievances, concer<g ref="char:EOLhyphen"/>ning Infection of Air, corruption of Victuals, eaſe of chaffer, and contract, of all other things that may hurt or grieve the people in general, in their health, quiet, and welfare.</p>
+               <p>And to theſe three ends, as mat<g ref="char:EOLhyphen"/>ters of policy ſubordinate, the Court Leet hath power to call up<g ref="char:EOLhyphen"/>on the pledges that are to be taken for the good behaviour of the Re<g ref="char:EOLhyphen"/>ſidents that are not Tenants, and to enquire of all Defaults of Officers, as Conſtables, Ale-taſters, <hi>&amp;c.</hi> and for choice of Conſtables, as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+               <p>The Juriſdiction of theſe Leets is ever remaining in the King, and in that caſe exerciſed by the She<g ref="char:EOLhyphen"/>riff in his turn, which is the grand
+<pb n="120" facs="tcp:102884:62"/>Leet granted over to Subjects; but yet it is ſtill the Kings Court.</p>
+               <p n="2">2. To the ſecond, as was ſaid, The Election of the pety Conſta<g ref="char:EOLhyphen"/>ble is at the Court Leet, by the In<g ref="char:EOLhyphen"/>queſt that makes the Preſentments; the Election of the Head Conſta<g ref="char:EOLhyphen"/>bles is by the Juſtices of the Peace at their Quarter Seſſions.</p>
+               <p n="3">3. To the third, The Office is annual, except they be removed.</p>
+               <p n="4">4. To the fourth, They be men (as it is now uſed) of inferiour, yea, of baſe condition, which is a meer abuſe or degenerating from the firſt Inſtitution; for the pety Conſtables in Towns ought to be of the better ſort of Reſiants in the ſaid Town, ſave that they ought not to be Aged, or ſickly, but men of able Bodies, in reſpect of keeping
+<pb n="121" facs="tcp:102884:62"/>Watch, and toil of their place, nei<g ref="char:EOLhyphen"/>ther ought they to be in any mans Livery: And the High Conſtables ought to be of the ableſt ſort of Free<g ref="char:EOLhyphen"/>holders, and of the ſubſtantialleſt ſort of Yeomen, next to the degree of Gentlemen; but they ought to be ſuch as are not incumbred with any other Office, as Mayor, Under<g ref="char:EOLhyphen"/>ſheriff, Bailiff, &amp;c.</p>
+               <p n="5">5. To the fifth, They have no al<g ref="char:EOLhyphen"/>lowance, but are bound by Duty to perform their Offices <hi>gratis,</hi> which may the rather be endured, becauſe it is but Annual, and they are not tyed to keep or maintain any Servants, or under-miniſters, for that every one of the King's People are bound to aſſiſt them.</p>
+               <p n="6">6. To the ſixth; Upon complaint made (of his refuſal) to any
+<pb n="122" facs="tcp:102884:63"/>one Juſtice of Peace, the ſaid Ju<g ref="char:EOLhyphen"/>ſtice may bind him over to the Seſſions, where (if he cannot ex<g ref="char:EOLhyphen"/>cuſe himſelf by ſome juſt allegati<g ref="char:EOLhyphen"/>on) he may be fined and impriſon<g ref="char:EOLhyphen"/>ed for his Contempt.</p>
+               <p n="7">7. To the ſeventh, The Autho<g ref="char:EOLhyphen"/>rity of Conſtables, as it is ſubſtan<g ref="char:EOLhyphen"/>tive, and of it ſelf, or ſubſtituted and aſtricted to the Warrants and Commands of the Juſtices of Peace; ſo again, it is Original or Additio<g ref="char:EOLhyphen"/>nal; for either it was given them by the Common Law, or elſe an<g ref="char:EOLhyphen"/>nexed by divers Statutes. And as for ſubordinate Power, wherein the Conſtable is onely to execute the Commandments of the Juſtices of Peace, and likewiſe the additional power which is given by divers Statutes, it is hard to comprehend
+<pb n="123" facs="tcp:102884:63"/>them in any brevity; For that they do correſpond to the Office and Authority of the Juſtices of Peace, which is very large, and are crea<g ref="char:EOLhyphen"/>ted by the branches of ſeveral Sta<g ref="char:EOLhyphen"/>tutes, which are things of divers and diſperſed natures: But for the original and ſubſtantive Power of a Conſtable, it may be reduced to three heads.</p>
+               <list>
+                  <item>1. For matter of Peace only.</item>
+                  <item>2. For matter of Peace and the Crown.</item>
+                  <item>3. For matter of Nuſance, Diſtur<g ref="char:EOLhyphen"/>bance, and Diſorder, although they be not accompanied with violence and breach of Peace.</item>
+               </list>
+               <p>For pacifying of Quarrels be<g ref="char:EOLhyphen"/>gun, the Conſtables may, upon hot words given, or likelihood of breach of peace to enſue, command them
+<pb n="124" facs="tcp:102884:64"/>in the Kings name to keep the Peace, and to depart, and forbear: and ſo he may where an Affray is made, part the ſame, and keep the Parties aſunder, and arreſt, and commit the Breakers of the Peace, if they will not obey, and call Pow<g ref="char:EOLhyphen"/>er to aſſiſt him for the ſame purpoſe.</p>
+               <p>For puniſhment of breach of Peace paſt, the Law is very ſparing in giving any Authority to Conſta<g ref="char:EOLhyphen"/>bles, becauſe he hath no power ju<g ref="char:EOLhyphen"/>dicial, and the Uſe of his Office is rather for preventing or ſtaying of Miſchief, than for puniſhing of Offences; for in that part he is rather to execute the Warrants of the Juſtices, or when ſuddden matter ariſeth upon his view, or notorious circumſtances, to appre<g ref="char:EOLhyphen"/>hend Offenders, and carry them be<g ref="char:EOLhyphen"/>fore
+<pb n="125" facs="tcp:102884:64"/>the Juſtice of Peace, and ge<g ref="char:EOLhyphen"/>nerally to impriſon in like caſes of neceſſity, where the caſe will not endure the preſent carrying before the Juſtices. And thus much for the matters of Peace.</p>
+               <p>For matters of the Crown, the Office of the Conſtable conſiſteth chiefly in four parts.</p>
+               <list>
+                  <item>1. The firſt is Arreſt.</item>
+                  <item>2. The ſecond is Search.</item>
+                  <item>3. The third is Hue and Cry.</item>
+                  <item>4. And the 4th is Seiſure of goods.</item>
+               </list>
+               <p>All which the Conſtable may perform of his own Authority, without any Warrant of the Juſti<g ref="char:EOLhyphen"/>ces of Peace.</p>
+               <p n="1">1. For firſt, If any man will lay Murder or Felony to another's charge, or do ſuſpect him of Mur<g ref="char:EOLhyphen"/>der or Felony, he may declare it to
+<pb n="126" facs="tcp:102884:65"/>the Conſtable, and the Conſtable ought, upon ſuch Declaration or Complaint, carry him before a Ju<g ref="char:EOLhyphen"/>ſtice, and if by common voice or Fame any man be ſuſpected, the Conſtable, of Duty, ought to arreſt him, and bring him before a Ju<g ref="char:EOLhyphen"/>ſtice, though there be no other ac<g ref="char:EOLhyphen"/>cuſation.</p>
+               <p n="2">2. If any houſe be ſuſpected for the receiving or harbouring of any Felon, the Conſtable, upon com<g ref="char:EOLhyphen"/>plaint, or common fame, may ſearch.</p>
+               <p n="3">3. If any fly upon the Felony, the Conſtable ought to raiſe Hue and Cry, and ſearch for his goods, and keep them ſafe without impair<g ref="char:EOLhyphen"/>ing, and to inventary them in the preſence of honeſt neighbours.</p>
+               <p n="4">4. For matters of common Nu<g ref="char:EOLhyphen"/>ſance
+<pb n="127" facs="tcp:102884:65"/>and grievance, they are of a very variable nature, according to the ſeveral comforts which mans Life and Society requireth, and the contraries which infeſt the ſame.</p>
+               <p>In all which, be it matter of cor<g ref="char:EOLhyphen"/>rupting Air, Water, or Victuals, or ſtopping, ſtraitning, or indanger<g ref="char:EOLhyphen"/>ing paſſage, or general deceits in Weights, Meaſures, Sizes, or coun<g ref="char:EOLhyphen"/>terfeiting Wares, and things vendi<g ref="char:EOLhyphen"/>ble; the Office of the Conſtable is to give (as much as in him lies) Information of them, and of the offenders in Leets, that they may be preſented. But becauſe Leets are kept but twice in the year, and ma<g ref="char:EOLhyphen"/>ny of theſe things require preſent or ſpeedy remedy, the Conſtable, in things of notorious and vulgar nature, ought to forbid and re<g ref="char:EOLhyphen"/>preſs
+<pb n="128" facs="tcp:102884:66"/>them in the mean time.</p>
+               <p n="8">8. To the eighth, They are for their Contempt to be fined and im<g ref="char:EOLhyphen"/>priſoned by the Juſtices in their Seſſions.</p>
+               <p n="9">9. To the ninth: The Oath they take is in this manner.</p>
+               <q>YO<g ref="char:V">Ʋ</g> ſhall ſwear, that you ſhall well and truly ſerve the King, and the Lord of this Law-day; and you ſhall cauſe the Peace of our Lord the King to be well and duely kept, to your power: And you ſhall arreſt all thoſe that you ſee committing Ri<g ref="char:EOLhyphen"/>ots, Debates, and Affrayes in breach of Peace: And you ſhall well and duely endeavour your ſelf to your beſt knowledge, that the Statutes of <hi>Win<g ref="char:EOLhyphen"/>cheſter</hi> for Watch, Huy and Cry, and the Statutes made for the puniſhment
+<pb n="129" facs="tcp:102884:66"/>of ſturdy Beggars, Vagabonds, Rogues, and other idle Perſons, coming with<g ref="char:EOLhyphen"/>in your Office, be truly executed, and the Offenders puniſhed; And you ſhall endeavour, upon complaint made, to apprehend Barreters and riotous Per<g ref="char:EOLhyphen"/>ſons, making Affrays, and likewiſe to apprehend Felons; and if any of of them make reſiſtance with force, and multitude of miſ-doers, you ſhall make Out-cry, and purſue them till they be taken; and ſhall look un<g ref="char:EOLhyphen"/>to ſuch Perſons as uſe unlawful Games; and you ſhall have regard unto the maintenance of Artillery; And you ſhall well and duely exe<g ref="char:EOLhyphen"/>cute all Proceſs and Precepts ſent unto you from the Juſtices of Peace of the County; and you ſhall make good and faithful preſentments of all Blood-ſheds, Out-cries, Affrays, and Reſcues made
+<pb n="130" facs="tcp:102884:67"/>within your Office; and you ſhall well and duely, according to your Power and knowledge, do that which belong<g ref="char:EOLhyphen"/>eth to your Office of Conſtable, to do for this year to come. <hi>So help</hi> &amp;c.</q>
+               <p n="10">10. To the tenth, The Authori<g ref="char:EOLhyphen"/>ty is the ſame in ſubſtance, differ<g ref="char:EOLhyphen"/>ing onely in extent; The pety Con<g ref="char:EOLhyphen"/>ſtable ſerving onely for for one Town, Pariſh, or Borough, the Head Conſtable ſerving for the whole Hundred; Neither is the pet<g ref="char:EOLhyphen"/>ty Conſtable ſubordinate to the Head Conſtable for any command<g ref="char:EOLhyphen"/>ment that proceeds from his own Authority, but it is uſed, that the Precepts of the Juſtices be deliver<g ref="char:EOLhyphen"/>ed unto the High Conſtables, who being few in number, may better attend the Juſtices, and then the Head Conſtables by vertue thereof,
+<pb n="131" facs="tcp:102884:67"/>make their Precepts over to the pet<g ref="char:EOLhyphen"/>ty Conſtables.</p>
+               <p n="11">11. To the eleventh, In caſe of neceſſity he may appoint a De<g ref="char:EOLhyphen"/>puty, or in default thereof, the Steward of the Court Leet may; which Deputy ought to be ſworn.</p>
+               <p>Now to conclude, the Office of Conſtables conſiſts wholly in theſe three things; <hi>viz.</hi>
+               </p>
+               <p>Their Of<g ref="char:EOLhyphen"/>fice con<g ref="char:EOLhyphen"/>cerning
+<list>
+                     <item>1. The conſervation of the Peace.</item>
+                     <item>2. The ſerving the Pre<g ref="char:EOLhyphen"/>cepts and Warrants of the Juſtices.</item>
+                     <item>3. Their attendance for the execution of Sta<g ref="char:EOLhyphen"/>tutes.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="21" type="chapter">
+               <pb n="132" facs="tcp:102884:68"/>
+               <head>
+                  <hi>CHAP. XXI.</hi> Of the Juriſdiction of Juſtices Itine<g ref="char:EOLhyphen"/>rantes in the Principality of <hi>Wales.</hi>
+               </head>
+               <p>THeſe Juſtices have power to hear and determine all cri<g ref="char:EOLhyphen"/>minal Cauſes, which are called, in the Laws of <hi>England, The Pleas of the Crown;</hi> and herein they have the ſame Juriſdiction that the Juſtices have in his Majeſties Bench, commonly called the Kings Bench.</p>
+               <p>They have Juriſdiction to hear and determine all civil Cauſes, which are called in the Laws of <hi>England,</hi> Common Pleas; and do take knowledgement of all Fines, levied of Lands or Hereditaments,
+<pb n="133" facs="tcp:102884:68"/>without ſuing out any <hi>Dedimus po<g ref="char:EOLhyphen"/>teſtatem;</hi> and herein they have the ſame Juriſdiction that the Juſtices of the Common Pleas do execute at <hi>Weſtminſter.</hi>
+               </p>
+               <p>Alſo they may hear and deter<g ref="char:EOLhyphen"/>mine all Aſſiſes upon Diſſeiſins of Lands or Hereditaments, wherein they equal the Juriſdiction of the Juſtices of the Aſſize.</p>
+               <p>Juſtices of <hi>Oyer</hi> and <hi>Terminer</hi> may hear and determine all nota<g ref="char:EOLhyphen"/>ble Violences and Outrages perpe<g ref="char:EOLhyphen"/>trated or done within their ſeveral Precincts of the Principality of <hi>Wales.</hi>
+               </p>
+               <list>
+                  <head>In the Kings Gift are,</head>
+                  <item>1. The Prothonotory, his Of<g ref="char:EOLhyphen"/>fice is to draw all Pleadings, and to enter and engroſs all Re<g ref="char:EOLhyphen"/>cords
+<pb n="136" facs="tcp:102884:69"/>and Judgments in civil Cau<g ref="char:EOLhyphen"/>ſes.</item>
+                  <item>2. The Clerk of the Crown, his Office is to draw and engroſs all Proceedings, Arraignments, and Judgments in criminal cauſes.</item>
+               </list>
+               <list>
+                  <head>In the diſpoſing of the Judge.</head>
+                  <item>1. The Marſhal, whoſe Office is to attend the Perſons of the Judges at their coming, ſitting, and going from the Seſſions or Court.</item>
+                  <item>2. The Crier, He is, <hi>tanquam pub<g ref="char:EOLhyphen"/>licus Praeco,</hi> to call forth ſuch Per<g ref="char:EOLhyphen"/>ſons whoſe appearances are neceſ<g ref="char:EOLhyphen"/>ſary, and to impoſe ſilence to the People.</item>
+               </list>
+               <p>There is a Commiſſion under the great Seal of <hi>England,</hi> to certain Gentlemen, giving them power to
+<pb n="135" facs="tcp:102884:69"/>preſerve the Peace, and to reſiſt and puniſh all turbulent Perſons, whoſe miſdemeanours may tend to the diſquiet of the People; and theſe be called the Juſtices of the Peace, and every of them may well and truly be called and termed <hi>Eire<g ref="char:EOLhyphen"/>narcha.</hi>
+               </p>
+               <p>The chief of them is called <hi>Cu<g ref="char:EOLhyphen"/>ſos Rotulorum,</hi> in whoſe cuſtody all the Records of their Proceedings are reſident.</p>
+               <p>Others there are of that number called Juſtices of Peace and <hi>Quo<g ref="char:EOLhyphen"/>rum,</hi> becauſe in their Commiſſion they have power to ſit and deter<g ref="char:EOLhyphen"/>mine Cauſes concerning breach of Peace, and misbehaviour; the words of their Commiſſion are conceived thus, <hi>Quorum,</hi> ſuch and ſuch, <hi>unum vel duos, &amp;c. eſſe volumus;</hi> and with<g ref="char:EOLhyphen"/>out
+<pb n="136" facs="tcp:102884:70"/>ſome one or more of them of the <hi>Quorum,</hi> no Seſſions can be hold<g ref="char:EOLhyphen"/>en: And for the avoiding of a ſuperfluous number of ſuch Juſti<g ref="char:EOLhyphen"/>ces (for through the Ambition of many, it is counted a credit to be burthened with that Authority) the Statute of 38 <hi>Hen.</hi> 8. hath ex<g ref="char:EOLhyphen"/>preſly prohibited, that there ſhall be but eight Juſtices of Peace in every County. Theſe Juſtices, be<g ref="char:EOLhyphen"/>ing appointed by the Lord Keeper, do hold their Seſſions quarterly.</p>
+               <p>In every Shire, where the Com<g ref="char:EOLhyphen"/>miſſion of the Peace is eſtabliſhed, there is a Clerk of the Peace, for the Entring and Engroſſing of all Pro<g ref="char:EOLhyphen"/>ceedings before the ſaid Juſtices. And this Officer is appointed by the <hi>Cuſtos Rotulorum.</hi>
+               </p>
+               <pb facs="tcp:102884:70"/>
+               <pb facs="tcp:102884:71"/>
+               <pb n="137" facs="tcp:102884:71"/>
+               <p>Every Shire hath its Sheriff, which word being of the Saxon Engliſh, is as much to ſay, as <hi>Shire Reeve,</hi> or Miniſter of the County: His Function or Office is twofold.</p>
+               <list>
+                  <item>1. Miniſterial.</item>
+                  <item>2. Judicial.</item>
+               </list>
+               <p>As touching his Miniſterial Of<g ref="char:EOLhyphen"/>fice, he is the Miniſter and Execu<g ref="char:EOLhyphen"/>tioner of all the Proceſs and Pre<g ref="char:EOLhyphen"/>cepts of the Courts of Law, and thereof ought to make Return and certificate. 34 <hi>H.</hi> 8. <hi>c.</hi> 16.</p>
+               <p>As touching his Judicial Of<g ref="char:EOLhyphen"/>fice, he hath Authority to hold two ſeveral Courts of diſtinct na<g ref="char:EOLhyphen"/>tures: The one called the <hi>Tourne,</hi> becauſe he keepeth his turn and circuit about the Shire, and hold<g ref="char:EOLhyphen"/>eth the ſame Court in ſeveral pla<g ref="char:EOLhyphen"/>ces, wherein he doth enquire of all
+<pb n="138" facs="tcp:102884:72"/>Offences perpetrated againſt the Common Law, and not forbidden by any Statute, or Act of Parlia<g ref="char:EOLhyphen"/>ment; and the Juriſdiction of this Court is derived from Juſtice di<g ref="char:EOLhyphen"/>ſtributive, and is for criminal of<g ref="char:EOLhyphen"/>fences, and is held twice every year.</p>
+               <p>The other is called the County Court, wherein he doth determine all petty and ſmall Cauſes civil, under forty ſhillings, ariſing with<g ref="char:EOLhyphen"/>in the ſaid County, and thereof it is called the County Court.</p>
+               <p>The juriſdiction of this Court is derived from Juſtice Commutative, and is held every Month: The Of<g ref="char:EOLhyphen"/>fice of the Sheriff is annual, and in the Kings gift, whereof he is to have a Patent.
+<pb n="139" facs="tcp:102884:72"/>Every Shire hath an Officer called an Eſcheator, which is an Office to attend the Kings Revenue, and to ſeize into his Majeſties hands all Lands, either eſcheated Goods, or Lands forfeited, and therefore is called Eſcheator; And he is to in<g ref="char:EOLhyphen"/>quire, by good Inqueſt, of the death of the King's Tenants, and to whom their Lands are deſcended, and to ſeize their Bodies and Lands for Ward, if they be within age, and is accountable for the ſame; and this Officer is named by the Lord Treaſurer of <hi>England.</hi>
+               </p>
+               <p>There are in every Shire two o<g ref="char:EOLhyphen"/>ther Officers, called Crowners, or Coroners: they are to enquire by Inqueſt, in what manner, and by whom every Perſon dyeth of a vio<g ref="char:EOLhyphen"/>lent death, and to enter the ſame
+<pb n="140" facs="tcp:102884:73"/>of Record, which is matter crimi<g ref="char:EOLhyphen"/>nal, and a Plea of the Crown, and therefore they are called Coroners, or Crowner as one hath written, be<g ref="char:EOLhyphen"/>cauſe their enquiry ought to be pub<g ref="char:EOLhyphen"/>lick, <hi>in corona populi.</hi> 34 <hi>H.</hi> 8.20.</p>
+               <p>Theſe Officers are choſen by the Free-holders of the Shire, by ver<g ref="char:EOLhyphen"/>tue of a Writ out of the Chancery, <hi>De Coronatore elegendo:</hi> And of them I need not to ſpeak more, becauſe theſe Officers are in uſe elſewhere.</p>
+               <p>Foraſmuch as every Shire is di<g ref="char:EOLhyphen"/>vided into Hundreds, it is alſo by the ſaid Statute of 34 <hi>H.</hi> 8. <hi>cap.</hi> 26. ordered, that two ſuffici<g ref="char:EOLhyphen"/>ent Gentlemen, or Yeomen, ſhall be appointed Conſtables of every Hundred.</p>
+               <pb n="141" facs="tcp:102884:73"/>
+               <p>Alſo there is in every Shire one Goal, or Priſon, appointed for the reſtraint of Liberty of ſuch Per<g ref="char:EOLhyphen"/>ſons as for their offences are there<g ref="char:EOLhyphen"/>unto committed, until they ſhall be delivered by courſe of Law.</p>
+               <p>In every Hundred of every Shire, the Sheriff thereof ſhall nominate ſufficient Perſons to be Bailiffs of that Hundred, and Under-mini<g ref="char:EOLhyphen"/>ſters of the Sheriff; and they are to attend upon the Juſtices in eve<g ref="char:EOLhyphen"/>ry of their Courts and Seſſions.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:102884:74"/>
+            <head>THE CONTENTS.</head>
+            <div type="part">
+               <head>Of the Readings, <hi>&amp;c.</hi>
+               </head>
+               <list>
+                  <item>LEcture <hi>I. Pag.</hi> 3.</item>
+                  <item>The Definition of Treaſon, 5.</item>
+                  <item>The firſt Caſe, 20.</item>
+                  <item>Lecture <hi>II.</hi> 41.</item>
+                  <item>The Second Caſe, 49.</item>
+                  <item>Lecture <hi>III.</hi> 62.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Contents of the Caſes of Treaſon, <hi>&amp;c.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>CHAP. I.</hi> CAſes of Treaſon, Pag. 73.</item>
+                  <item>
+                     <hi>Chap. II.</hi> The Puniſhment, Tryal, and Proceeding in Caſes of Treaſon, 78.</item>
+                  <item>
+                     <hi>Chap. III.</hi> Caſes of Miſpriſion of Treaſon, 83.</item>
+                  <item>
+                     <hi>Chap. IV.</hi> The Puniſhment, Tryal, and pro<g ref="char:EOLhyphen"/>ceeding
+<pb facs="tcp:102884:74"/>in Caſes of Miſpriſion of Trea<g ref="char:EOLhyphen"/>ſon, <hi>ibid.</hi>
+                  </item>
+                  <item>
+                     <hi>Chap. V.</hi> Caſes of pety Treaſon, 84.</item>
+                  <item>
+                     <hi>Chap. VI.</hi> The Puniſhment, Tryal, and proceedings in caſes of Pety Treaſon, 85.</item>
+                  <item>
+                     <hi>Chap. VII.</hi> Caſes of Felony, 86.</item>
+                  <item>
+                     <hi>Chap. VIII.</hi> The Puniſhment, Tryal, and proceedings in caſes of Felony, 93.</item>
+                  <item>
+                     <hi>Chap. IX.</hi> Caſes of Felony <hi>de ſe,</hi> with the Puniſhment, Tryal and Proceedings, 98.</item>
+                  <item>
+                     <hi>Chap. X.</hi> Caſes of Premunire. 99.</item>
+                  <item>
+                     <hi>Chap. XI.</hi> The Puniſhment, Tryal, and pro<g ref="char:EOLhyphen"/>ceeding in Caſes of Premunire, 102.</item>
+                  <item>
+                     <hi>Chap. XII.</hi> Caſes of Abjuration and Exile, and the Proceedings therein. 103.</item>
+                  <item>
+                     <hi>Chap. XIII.</hi> Caſes of Hereſie, and the Tryal and Proceedings therein. 106.</item>
+                  <item>
+                     <hi>Chap. XIV.</hi> The King's Prerogative in Parliament, 107.</item>
+                  <item>
+                     <hi>Chap. XV.</hi> The Kings Prerogative in mat<g ref="char:EOLhyphen"/>ters of War or Peace. 108.</item>
+                  <item>
+                     <hi>Chap. XVI.</hi> The Kings Prerogative in mat<g ref="char:EOLhyphen"/>ters of Moneys, 110.</item>
+                  <item>
+                     <hi>Chap. XVII.</hi> The Kings Prerogative in matters of Trade and Traffick. 111.</item>
+                  <item>
+                     <hi>Chap. XVIII.</hi> The Kings Prerogative in
+<pb facs="tcp:102884:75"/>the Perſons of his Subjects, 112.</item>
+                  <item>
+                     <hi>Chap. XIX.</hi> An Anſwer to the Queſtion pro<g ref="char:EOLhyphen"/>poſed by Sir <hi>Alexander Hay,</hi> Knight, touching the Office of Conſtables, 114.</item>
+                  <item>
+                     <hi>Chap. XX.</hi> Three ends of the Inſtitution of the Court Leet, 118.</item>
+                  <item>
+                     <hi>Chap. XXI.</hi> The Juriſdiction of Juſtices <hi>Itinerantes</hi> in the Principality of <hi>Wales, Pag. 132.</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102884:75"/>
+         </div>
+      </back>
+   </text>
+</TEI>
